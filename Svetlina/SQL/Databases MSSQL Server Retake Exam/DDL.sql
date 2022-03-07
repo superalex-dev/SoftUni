@@ -1,0 +1,52 @@
+CREATE TABLE Users
+(
+Id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+Username nvarchar(30) NOT NULL UNIQUE,
+[Password] nvarchar(50) NOT NULL,
+[Name] varchar(50),
+Birthdate DATETIME,
+Age INT CHECK(Age BETWEEN 14 AND 110) NOT NULL,
+Email varchar(50) NOT NULL
+)
+
+
+CREATE TABLE Departments
+(
+	Id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+	[Name] nvarchar(50) NOT NULL
+)
+
+CREATE TABLE Employees
+(
+	Id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+	FirstName nvarchar(25),
+	LastName nvarchar(25),  
+	Birthdate DATETIME,
+	Age INT CHECK(Age BETWEEN 18 AND 110) NOT NULL,
+	DepartmentId INT FOREIGN KEY REFERENCES Departments(Id)
+)
+
+CREATE TABLE Categories
+(
+	Id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+	[Name] nvarchar(50),
+	DepartmentId INT FOREIGN KEY REFERENCES Departments(Id) NOT NULL
+)
+
+CREATE TABLE Status
+(
+	Id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+	[Label] nvarchar(30) NOT NULL
+)
+
+CREATE TABLE Reports
+(
+	Id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+	CategoryId INT FOREIGN KEY REFERENCES Categories(Id) NOT NULL,
+	StatusId INT FOREIGN KEY REFERENCES Status(Id) NOT NULL,
+	OpenDate DATETIME NOT NULL,
+	CloseDate DATETIME,
+	[Description] nvarchar(200) NOT NULL,
+	UserId INT FOREIGN KEY REFERENCES Users(Id) NOT NULL,
+	EmployeeId INT FOREIGN KEY REFERENCES Employees NOT NULL
+)
