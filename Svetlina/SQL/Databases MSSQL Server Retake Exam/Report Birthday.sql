@@ -1,7 +1,5 @@
-SELECT DISTINCT C.Name AS CategoryName
-FROM Reports AS R
-JOIN Users AS U ON R.UserId = U.Id
-JOIN Categories AS C ON R.CategoryId = C.Id
-WHERE DAY(R.OpenDate) = DAY(U.[Birthdate]) 
-AND MONTH(R.OpenDate) = MONTH(U.[Birthdate])
-ORDER BY CategoryName
+SELECT u.Username, c.Name AS CategoryName FROM Reports AS r
+JOIN Categories AS c ON c.Id = r.CategoryId
+JOIN Users AS u ON u.Id = r.UserId
+WHERE DATEPART(Day, u.Birthdate) = DATEPART(Day, r.OpenDate)
+ORDER BY u.Username, c.Name
