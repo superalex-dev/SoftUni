@@ -10,20 +10,21 @@ namespace Trees_and_Graphs
         {
             TraverseDirBFS(@"C:\Windows\assembly");
         }
-        private static void TraverseDirBFS(DirectoryInfo dir, string spaces)
-        {
-            Console.WriteLine(spaces + dir.FullName);
-
-            DirectoryInfo[] children = dir.GetDirectories();
-            foreach (DirectoryInfo child in children)
-            {
-                TraverseDirBFS(child, spaces + " ");
-            }
-        }
-
         public static void TraverseDirBFS(string directoryPath)
         {
-            TraverseDirBFS(new DirectoryInfo(directoryPath), string.Empty);
+            var visitedDirsQueue = new Queue<DirectoryInfo>();
+            visitedDirsQueue.Enqueue(new DirectoryInfo(directoryPath));
+
+            while (visitedDirsQueue.Count > 0)
+            {
+                DirectoryInfo currentDir = visitedDirsQueue.Dequeue();
+                Console.WriteLine(currentDir.FullName);
+
+                foreach (DirectoryInfo child in currentDir.GetDirectories())
+                {
+                    visitedDirsQueue.Enqueue(child);
+                }
+            }
         }
     }
 }
