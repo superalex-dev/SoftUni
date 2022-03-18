@@ -15,7 +15,7 @@ namespace Trees_and_Graphs
             Console.WriteLine(spaces + dir.FullName);
 
             DirectoryInfo[] children = dir.GetDirectories();
-            foreach (DirectoryInfo child in children)
+            foreach (var DirectoryInfo child in children)
             {
                 TraverseDirBFS(child, spaces + " ");
             }
