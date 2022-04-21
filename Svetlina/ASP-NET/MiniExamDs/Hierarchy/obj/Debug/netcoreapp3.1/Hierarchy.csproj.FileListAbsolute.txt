@@ -1,0 +1,16 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Hierarchy\bin\Debug\netcoreapp3.1\Hierarchy.exe
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Hierarchy\bin\Debug\netcoreapp3.1\Hierarchy.deps.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Hierarchy\bin\Debug\netcoreapp3.1\Hierarchy.runtimeconfig.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Hierarchy\bin\Debug\netcoreapp3.1\Hierarchy.runtimeconfig.dev.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Hierarchy\bin\Debug\netcoreapp3.1\Hierarchy.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Hierarchy\bin\Debug\netcoreapp3.1\Hierarchy.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Hierarchy\bin\Debug\netcoreapp3.1\SimpleTreeNode.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.AssemblyInfoInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.AssemblyInfo.cs
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.csproj.CopyComplete
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Find If Path Exists\bin\Debug\netcoreapp3.1\Find If Path Exists.exe
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Find If Path Exists\bin\Debug\netcoreapp3.1\Find If Path Exists.deps.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Find If Path Exists\bin\Debug\netcoreapp3.1\Find If Path Exists.runtimeconfig.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Find If Path Exists\bin\Debug\netcoreapp3.1\Find If Path Exists.runtimeconfig.dev.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Find If Path Exists\bin\Debug\netcoreapp3.1\Find If Path Exists.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Find If Path Exists\bin\Debug\netcoreapp3.1\Find If Path Exists.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Find If Path Exists\obj\Debug\netcoreapp3.1\Find If Path Exists.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Find If Path Exists\obj\Debug\netcoreapp3.1\Find If Path Exists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Find If Path Exists\obj\Debug\netcoreapp3.1\Find If Path Exists.AssemblyInfoInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Find If Path Exists\obj\Debug\netcoreapp3.1\Find If Path Exists.AssemblyInfo.cs
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Find If Path Exists\obj\Debug\netcoreapp3.1\Find If Path Exists.csproj.CoreCompileInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Find If Path Exists\obj\Debug\netcoreapp3.1\Find If Path Exists.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Find If Path Exists\obj\Debug\netcoreapp3.1\Find If Path Exists.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\Find If Path Exists\obj\Debug\netcoreapp3.1\Find If Path Exists.genruntimeconfig.cache

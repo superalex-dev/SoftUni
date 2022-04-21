@@ -1,0 +1,14 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Graphs\Graphs\Graphs\bin\Debug\netcoreapp3.1\Graphs.exe
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Graphs\Graphs\Graphs\bin\Debug\netcoreapp3.1\Graphs.deps.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Graphs\Graphs\Graphs\bin\Debug\netcoreapp3.1\Graphs.runtimeconfig.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Graphs\Graphs\Graphs\bin\Debug\netcoreapp3.1\Graphs.runtimeconfig.dev.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Graphs\Graphs\Graphs\bin\Debug\netcoreapp3.1\Graphs.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Graphs\Graphs\Graphs\bin\Debug\netcoreapp3.1\Graphs.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Graphs\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Graphs\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Graphs\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.AssemblyInfoInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Graphs\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.AssemblyInfo.cs
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Graphs\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Graphs\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Graphs\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Graphs\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.genruntimeconfig.cache

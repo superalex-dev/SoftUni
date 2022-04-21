@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ULB0zk7hR/O7rU+tFFm/sPwzKhh1ttnLXc99vFLShioHdgJXK7MOH19RDo/gIJos7WH9eMXvPXkr+zD5U3egiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\naido\\Desktop\\SoftUni\\Svetlina\\ASP-NET\\MiniExamDs\\Hierarchy\\Hierarchy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naido\\.nuget\\packages\\simpletreenode\\1.0.0\\simpletreenode.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

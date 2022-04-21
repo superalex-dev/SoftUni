@@ -1,0 +1,16 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\MiniExamDs\bin\Debug\netcoreapp3.1\MiniExamDs.exe
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\MiniExamDs\bin\Debug\netcoreapp3.1\MiniExamDs.deps.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\MiniExamDs\bin\Debug\netcoreapp3.1\MiniExamDs.runtimeconfig.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\MiniExamDs\bin\Debug\netcoreapp3.1\MiniExamDs.runtimeconfig.dev.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\MiniExamDs\bin\Debug\netcoreapp3.1\MiniExamDs.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\MiniExamDs\bin\Debug\netcoreapp3.1\MiniExamDs.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\MiniExamDs\bin\Debug\netcoreapp3.1\Wintellect.PowerCollections.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\MiniExamDs\obj\Debug\netcoreapp3.1\MiniExamDs.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\MiniExamDs\obj\Debug\netcoreapp3.1\MiniExamDs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\MiniExamDs\obj\Debug\netcoreapp3.1\MiniExamDs.AssemblyInfoInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\MiniExamDs\obj\Debug\netcoreapp3.1\MiniExamDs.AssemblyInfo.cs
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\MiniExamDs\obj\Debug\netcoreapp3.1\MiniExamDs.csproj.CoreCompileInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\MiniExamDs\obj\Debug\netcoreapp3.1\MiniExamDs.csproj.CopyComplete
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\MiniExamDs\obj\Debug\netcoreapp3.1\MiniExamDs.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\MiniExamDs\obj\Debug\netcoreapp3.1\MiniExamDs.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\MiniExamDs\MiniExamDs\obj\Debug\netcoreapp3.1\MiniExamDs.genruntimeconfig.cache

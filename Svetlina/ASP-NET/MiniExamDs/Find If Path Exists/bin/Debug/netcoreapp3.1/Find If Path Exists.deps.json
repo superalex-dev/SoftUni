@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Find If Path Exists/1.0.0": {
+        "runtime": {
+          "Find If Path Exists.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find If Path Exists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

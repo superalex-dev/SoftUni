@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uS1xEMiGlL7Q5SbRQcWnHw/XXbwmVCMDh4AXlKYS8T3uJJYkCbiksATFGegBUifqkjaat5ld6aP/GNbu+QCpjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\naido\\Desktop\\SoftUni\\Svetlina\\ASP-NET\\MiniExamDs\\MiniExamDs\\MiniExamDs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naido\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
