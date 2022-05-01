@@ -2,7 +2,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddDbContext<Parking.Models.ParkingContext>();
+//builder.Services.AddDbContext<Parking.Models.ParkingContext>();
 
 var app = builder.Build();
 
