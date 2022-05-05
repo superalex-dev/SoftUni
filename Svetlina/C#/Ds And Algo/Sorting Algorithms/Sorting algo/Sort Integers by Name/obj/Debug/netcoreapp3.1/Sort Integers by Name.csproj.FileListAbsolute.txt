@@ -1,0 +1,14 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sort Integers by Name\bin\Debug\netcoreapp3.1\Sort Integers by Name.exe
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sort Integers by Name\bin\Debug\netcoreapp3.1\Sort Integers by Name.deps.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sort Integers by Name\bin\Debug\netcoreapp3.1\Sort Integers by Name.runtimeconfig.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sort Integers by Name\bin\Debug\netcoreapp3.1\Sort Integers by Name.runtimeconfig.dev.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sort Integers by Name\bin\Debug\netcoreapp3.1\Sort Integers by Name.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sort Integers by Name\bin\Debug\netcoreapp3.1\Sort Integers by Name.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sort Integers by Name\obj\Debug\netcoreapp3.1\Sort Integers by Name.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sort Integers by Name\obj\Debug\netcoreapp3.1\Sort Integers by Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sort Integers by Name\obj\Debug\netcoreapp3.1\Sort Integers by Name.AssemblyInfoInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sort Integers by Name\obj\Debug\netcoreapp3.1\Sort Integers by Name.AssemblyInfo.cs
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sort Integers by Name\obj\Debug\netcoreapp3.1\Sort Integers by Name.csproj.CoreCompileInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sort Integers by Name\obj\Debug\netcoreapp3.1\Sort Integers by Name.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sort Integers by Name\obj\Debug\netcoreapp3.1\Sort Integers by Name.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sort Integers by Name\obj\Debug\netcoreapp3.1\Sort Integers by Name.genruntimeconfig.cache
