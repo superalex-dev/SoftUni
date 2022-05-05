@@ -36,43 +36,43 @@ namespace Inversion_count
         }
         private static int Merge(int[] arr, int[] temp, int left, int mid, int right)
         {
-            int i, j, k;
+            int leftIndex, rightIndex, currIndex;
 
             int invCount = 0;
 
-            i = left;
-            j = mid;
-            k = left;
+            leftIndex = left;
+            rightIndex = mid;
+            currIndex = left;
 
-            while ((i <= mid - 1) && (j <= right))
+            while ((leftIndex <= mid - 1) && (rightIndex <= right))
             {
-                if (arr[i] <= arr[j])
+                if (arr[leftIndex] <= arr[rightIndex])
                 {
-                    temp[k++] = arr[i++];
+                    temp[currIndex++] = arr[leftIndex++];
                 }
 
                 else
                 {
-                    temp[k++] = arr[j++];
-                    invCount += mid - i;
+                    temp[currIndex++] = arr[rightIndex++];
+                    invCount += mid - leftIndex;
                 }
             }
 
-            while (i <= mid - 1)
+            while (leftIndex <= mid - 1)
             {
-                temp[k++] = arr[i++];
+                temp[currIndex++] = arr[leftIndex++];
             }
 
 
-            while (j <= right)
+            while (rightIndex <= right)
             {
-                temp[k++] = arr[j++];
+                temp[currIndex++] = arr[rightIndex++];
             }
 
 
-            for (i = left; i <= right; i++)
+            for (leftIndex = left; leftIndex <= right; leftIndex++)
             {
-                arr[i] = temp[i];
+                arr[leftIndex] = temp[leftIndex];
             }
 
             return invCount;
