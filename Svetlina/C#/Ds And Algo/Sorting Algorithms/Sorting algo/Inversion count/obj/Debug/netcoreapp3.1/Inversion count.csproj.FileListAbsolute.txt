@@ -1,0 +1,14 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Inversion count\bin\Debug\netcoreapp3.1\Inversion count.exe
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Inversion count\bin\Debug\netcoreapp3.1\Inversion count.deps.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Inversion count\bin\Debug\netcoreapp3.1\Inversion count.runtimeconfig.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Inversion count\bin\Debug\netcoreapp3.1\Inversion count.runtimeconfig.dev.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Inversion count\bin\Debug\netcoreapp3.1\Inversion count.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Inversion count\bin\Debug\netcoreapp3.1\Inversion count.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Inversion count\obj\Debug\netcoreapp3.1\Inversion count.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Inversion count\obj\Debug\netcoreapp3.1\Inversion count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Inversion count\obj\Debug\netcoreapp3.1\Inversion count.AssemblyInfoInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Inversion count\obj\Debug\netcoreapp3.1\Inversion count.AssemblyInfo.cs
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Inversion count\obj\Debug\netcoreapp3.1\Inversion count.csproj.CoreCompileInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Inversion count\obj\Debug\netcoreapp3.1\Inversion count.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Inversion count\obj\Debug\netcoreapp3.1\Inversion count.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Inversion count\obj\Debug\netcoreapp3.1\Inversion count.genruntimeconfig.cache

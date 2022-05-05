@@ -1,0 +1,14 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Insertion sort\bin\Debug\netcoreapp3.1\Insertion sort.exe
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Insertion sort\bin\Debug\netcoreapp3.1\Insertion sort.deps.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Insertion sort\bin\Debug\netcoreapp3.1\Insertion sort.runtimeconfig.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Insertion sort\bin\Debug\netcoreapp3.1\Insertion sort.runtimeconfig.dev.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Insertion sort\bin\Debug\netcoreapp3.1\Insertion sort.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Insertion sort\bin\Debug\netcoreapp3.1\Insertion sort.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Insertion sort\obj\Debug\netcoreapp3.1\Insertion sort.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Insertion sort\obj\Debug\netcoreapp3.1\Insertion sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Insertion sort\obj\Debug\netcoreapp3.1\Insertion sort.AssemblyInfoInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Insertion sort\obj\Debug\netcoreapp3.1\Insertion sort.AssemblyInfo.cs
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Insertion sort\obj\Debug\netcoreapp3.1\Insertion sort.csproj.CoreCompileInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Insertion sort\obj\Debug\netcoreapp3.1\Insertion sort.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Insertion sort\obj\Debug\netcoreapp3.1\Insertion sort.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Insertion sort\obj\Debug\netcoreapp3.1\Insertion sort.genruntimeconfig.cache

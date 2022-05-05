@@ -1,0 +1,14 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Quick sort\bin\Debug\netcoreapp3.1\Quick sort.exe
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Quick sort\bin\Debug\netcoreapp3.1\Quick sort.deps.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Quick sort\bin\Debug\netcoreapp3.1\Quick sort.runtimeconfig.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Quick sort\bin\Debug\netcoreapp3.1\Quick sort.runtimeconfig.dev.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Quick sort\bin\Debug\netcoreapp3.1\Quick sort.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Quick sort\bin\Debug\netcoreapp3.1\Quick sort.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Quick sort\obj\Debug\netcoreapp3.1\Quick sort.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Quick sort\obj\Debug\netcoreapp3.1\Quick sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Quick sort\obj\Debug\netcoreapp3.1\Quick sort.AssemblyInfoInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Quick sort\obj\Debug\netcoreapp3.1\Quick sort.AssemblyInfo.cs
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Quick sort\obj\Debug\netcoreapp3.1\Quick sort.csproj.CoreCompileInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Quick sort\obj\Debug\netcoreapp3.1\Quick sort.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Quick sort\obj\Debug\netcoreapp3.1\Quick sort.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Quick sort\obj\Debug\netcoreapp3.1\Quick sort.genruntimeconfig.cache

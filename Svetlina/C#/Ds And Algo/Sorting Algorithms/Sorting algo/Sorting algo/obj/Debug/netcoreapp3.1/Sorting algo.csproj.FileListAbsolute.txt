@@ -1,0 +1,14 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sorting algo\bin\Debug\netcoreapp3.1\Sorting algo.exe
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sorting algo\bin\Debug\netcoreapp3.1\Sorting algo.deps.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sorting algo\bin\Debug\netcoreapp3.1\Sorting algo.runtimeconfig.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sorting algo\bin\Debug\netcoreapp3.1\Sorting algo.runtimeconfig.dev.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sorting algo\bin\Debug\netcoreapp3.1\Sorting algo.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sorting algo\bin\Debug\netcoreapp3.1\Sorting algo.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sorting algo\obj\Debug\netcoreapp3.1\Sorting algo.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sorting algo\obj\Debug\netcoreapp3.1\Sorting algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sorting algo\obj\Debug\netcoreapp3.1\Sorting algo.AssemblyInfoInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sorting algo\obj\Debug\netcoreapp3.1\Sorting algo.AssemblyInfo.cs
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sorting algo\obj\Debug\netcoreapp3.1\Sorting algo.csproj.CoreCompileInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sorting algo\obj\Debug\netcoreapp3.1\Sorting algo.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sorting algo\obj\Debug\netcoreapp3.1\Sorting algo.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Sorting Algorithms\Sorting algo\Sorting algo\obj\Debug\netcoreapp3.1\Sorting algo.genruntimeconfig.cache
