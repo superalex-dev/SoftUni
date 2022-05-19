@@ -1,0 +1,14 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\bin\Debug\netcoreapp3.1\Final Exam Preparation.exe
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\bin\Debug\netcoreapp3.1\Final Exam Preparation.deps.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\bin\Debug\netcoreapp3.1\Final Exam Preparation.runtimeconfig.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\bin\Debug\netcoreapp3.1\Final Exam Preparation.runtimeconfig.dev.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\bin\Debug\netcoreapp3.1\Final Exam Preparation.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\bin\Debug\netcoreapp3.1\Final Exam Preparation.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\obj\Debug\netcoreapp3.1\Final Exam Preparation.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\obj\Debug\netcoreapp3.1\Final Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\obj\Debug\netcoreapp3.1\Final Exam Preparation.AssemblyInfoInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\obj\Debug\netcoreapp3.1\Final Exam Preparation.AssemblyInfo.cs
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\obj\Debug\netcoreapp3.1\Final Exam Preparation.csproj.CoreCompileInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\obj\Debug\netcoreapp3.1\Final Exam Preparation.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\obj\Debug\netcoreapp3.1\Final Exam Preparation.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\obj\Debug\netcoreapp3.1\Final Exam Preparation.genruntimeconfig.cache
