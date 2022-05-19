@@ -1,0 +1,14 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\bin\Debug\netcoreapp3.1\Number Sorter.exe
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\bin\Debug\netcoreapp3.1\Number Sorter.deps.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\bin\Debug\netcoreapp3.1\Number Sorter.runtimeconfig.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\bin\Debug\netcoreapp3.1\Number Sorter.runtimeconfig.dev.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\bin\Debug\netcoreapp3.1\Number Sorter.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\bin\Debug\netcoreapp3.1\Number Sorter.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\obj\Debug\netcoreapp3.1\Number Sorter.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\obj\Debug\netcoreapp3.1\Number Sorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\obj\Debug\netcoreapp3.1\Number Sorter.AssemblyInfoInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\obj\Debug\netcoreapp3.1\Number Sorter.AssemblyInfo.cs
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\obj\Debug\netcoreapp3.1\Number Sorter.csproj.CoreCompileInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\obj\Debug\netcoreapp3.1\Number Sorter.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\obj\Debug\netcoreapp3.1\Number Sorter.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Final Exam Preparation\obj\Debug\netcoreapp3.1\Number Sorter.genruntimeconfig.cache

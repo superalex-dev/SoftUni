@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\naido\\Desktop\\SoftUni\\Svetlina\\C#\\Ds And Algo\\Final Exam Preparation\\Final Exam Preparation\\Final Exam Preparation\\Number Sorter.csproj",
-      "projectName": "Number Sorter",
-      "projectPath": "C:\\Users\\naido\\Desktop\\SoftUni\\Svetlina\\C#\\Ds And Algo\\Final Exam Preparation\\Final Exam Preparation\\Final Exam Preparation\\Number Sorter.csproj",
+      "projectUniqueName": "C:\\Users\\naido\\Desktop\\SoftUni\\Svetlina\\C#\\Ds And Algo\\Final Exam Preparation\\Final Exam Preparation\\Matrix Path\\Matrix Path.csproj",
+      "projectName": "Matrix Path",
+      "projectPath": "C:\\Users\\naido\\Desktop\\SoftUni\\Svetlina\\C#\\Ds And Algo\\Final Exam Preparation\\Final Exam Preparation\\Matrix Path\\Matrix Path.csproj",
       "packagesPath": "C:\\Users\\naido\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\naido\\Desktop\\SoftUni\\Svetlina\\C#\\Ds And Algo\\Final Exam Preparation\\Final Exam Preparation\\Final Exam Preparation\\obj\\",
+      "outputPath": "C:\\Users\\naido\\Desktop\\SoftUni\\Svetlina\\C#\\Ds And Algo\\Final Exam Preparation\\Final Exam Preparation\\Matrix Path\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

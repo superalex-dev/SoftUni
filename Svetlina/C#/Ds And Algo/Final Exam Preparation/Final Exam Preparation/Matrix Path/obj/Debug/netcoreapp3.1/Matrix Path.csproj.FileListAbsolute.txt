@@ -1,0 +1,14 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Matrix Path\bin\Debug\netcoreapp3.1\Matrix Path.exe
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Matrix Path\bin\Debug\netcoreapp3.1\Matrix Path.deps.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Matrix Path\bin\Debug\netcoreapp3.1\Matrix Path.runtimeconfig.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Matrix Path\bin\Debug\netcoreapp3.1\Matrix Path.runtimeconfig.dev.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Matrix Path\bin\Debug\netcoreapp3.1\Matrix Path.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Matrix Path\bin\Debug\netcoreapp3.1\Matrix Path.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Matrix Path\obj\Debug\netcoreapp3.1\Matrix Path.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Matrix Path\obj\Debug\netcoreapp3.1\Matrix Path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Matrix Path\obj\Debug\netcoreapp3.1\Matrix Path.AssemblyInfoInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Matrix Path\obj\Debug\netcoreapp3.1\Matrix Path.AssemblyInfo.cs
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Matrix Path\obj\Debug\netcoreapp3.1\Matrix Path.csproj.CoreCompileInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Matrix Path\obj\Debug\netcoreapp3.1\Matrix Path.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Matrix Path\obj\Debug\netcoreapp3.1\Matrix Path.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Matrix Path\obj\Debug\netcoreapp3.1\Matrix Path.genruntimeconfig.cache

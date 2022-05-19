@@ -1,0 +1,14 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Word Generator\bin\Debug\netcoreapp3.1\Word Generator.exe
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Word Generator\bin\Debug\netcoreapp3.1\Word Generator.deps.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Word Generator\bin\Debug\netcoreapp3.1\Word Generator.runtimeconfig.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Word Generator\bin\Debug\netcoreapp3.1\Word Generator.runtimeconfig.dev.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Word Generator\bin\Debug\netcoreapp3.1\Word Generator.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Word Generator\bin\Debug\netcoreapp3.1\Word Generator.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Word Generator\obj\Debug\netcoreapp3.1\Word Generator.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Word Generator\obj\Debug\netcoreapp3.1\Word Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Word Generator\obj\Debug\netcoreapp3.1\Word Generator.AssemblyInfoInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Word Generator\obj\Debug\netcoreapp3.1\Word Generator.AssemblyInfo.cs
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Word Generator\obj\Debug\netcoreapp3.1\Word Generator.csproj.CoreCompileInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Word Generator\obj\Debug\netcoreapp3.1\Word Generator.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Word Generator\obj\Debug\netcoreapp3.1\Word Generator.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\C#\Ds And Algo\Final Exam Preparation\Final Exam Preparation\Word Generator\obj\Debug\netcoreapp3.1\Word Generator.genruntimeconfig.cache
