@@ -1,0 +1,100 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Svetlinagram
+build_property.RootNamespace = Svetlinagram
+build_property.ProjectDir = C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\Svetlinagram\Svetlinagram\Svetlinagram\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\naido\Desktop\SoftUni\Svetlina\ASP-NET\Svetlinagram\Svetlinagram\Svetlinagram
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/Messages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/Messages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/Messages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/Messages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/Messages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/Posts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/Posts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/Posts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/Posts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/Posts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/Profiles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/Profiles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/Profiles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/Profiles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/Profiles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/Profiles/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naido/Desktop/SoftUni/Svetlina/ASP-NET/Svetlinagram/Svetlinagram/Svetlinagram/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cu28p3dyuv
