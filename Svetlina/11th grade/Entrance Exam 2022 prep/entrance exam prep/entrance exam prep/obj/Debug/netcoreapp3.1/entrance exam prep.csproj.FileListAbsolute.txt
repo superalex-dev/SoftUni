@@ -1,0 +1,14 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\Entrance Exam 2022 prep\entrance exam prep\entrance exam prep\bin\Debug\netcoreapp3.1\entrance exam prep.exe
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\Entrance Exam 2022 prep\entrance exam prep\entrance exam prep\bin\Debug\netcoreapp3.1\entrance exam prep.deps.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\Entrance Exam 2022 prep\entrance exam prep\entrance exam prep\bin\Debug\netcoreapp3.1\entrance exam prep.runtimeconfig.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\Entrance Exam 2022 prep\entrance exam prep\entrance exam prep\bin\Debug\netcoreapp3.1\entrance exam prep.runtimeconfig.dev.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\Entrance Exam 2022 prep\entrance exam prep\entrance exam prep\bin\Debug\netcoreapp3.1\entrance exam prep.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\Entrance Exam 2022 prep\entrance exam prep\entrance exam prep\bin\Debug\netcoreapp3.1\entrance exam prep.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\Entrance Exam 2022 prep\entrance exam prep\entrance exam prep\obj\Debug\netcoreapp3.1\entrance exam prep.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\Entrance Exam 2022 prep\entrance exam prep\entrance exam prep\obj\Debug\netcoreapp3.1\entrance exam prep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\Entrance Exam 2022 prep\entrance exam prep\entrance exam prep\obj\Debug\netcoreapp3.1\entrance exam prep.AssemblyInfoInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\Entrance Exam 2022 prep\entrance exam prep\entrance exam prep\obj\Debug\netcoreapp3.1\entrance exam prep.AssemblyInfo.cs
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\Entrance Exam 2022 prep\entrance exam prep\entrance exam prep\obj\Debug\netcoreapp3.1\entrance exam prep.csproj.CoreCompileInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\Entrance Exam 2022 prep\entrance exam prep\entrance exam prep\obj\Debug\netcoreapp3.1\entrance exam prep.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\Entrance Exam 2022 prep\entrance exam prep\entrance exam prep\obj\Debug\netcoreapp3.1\entrance exam prep.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\Entrance Exam 2022 prep\entrance exam prep\entrance exam prep\obj\Debug\netcoreapp3.1\entrance exam prep.genruntimeconfig.cache
