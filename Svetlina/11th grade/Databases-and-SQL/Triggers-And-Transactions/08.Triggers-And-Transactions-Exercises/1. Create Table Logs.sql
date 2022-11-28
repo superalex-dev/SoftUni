@@ -19,4 +19,4 @@ AS
              FROM inserted
          )
          );
-		 END;
+END
