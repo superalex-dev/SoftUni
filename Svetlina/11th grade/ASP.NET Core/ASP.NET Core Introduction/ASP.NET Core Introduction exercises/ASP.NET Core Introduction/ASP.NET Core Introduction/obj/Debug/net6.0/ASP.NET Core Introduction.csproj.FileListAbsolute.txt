@@ -1,0 +1,2 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\ASP.NET Core\ASP.NET Core Introduction\ASP.NET Core Introduction exercises\ASP.NET Core Introduction\ASP.NET Core Introduction\obj\Debug\net6.0\ASP.NET Core Introduction.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\ASP.NET Core\ASP.NET Core Introduction\ASP.NET Core Introduction exercises\ASP.NET Core Introduction\ASP.NET Core Introduction\obj\Debug\net6.0\ASP.NET Core Introduction.GeneratedMSBuildEditorConfig.editorconfig

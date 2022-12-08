@@ -4,6 +4,7 @@ import static com.example.sudokugame.R.id.buttonDelete;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.opengl.Matrix;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -11,44 +12,65 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-    TextView[][] matrix = new TextView[9][9];
+    TextView[][] sudokuMatrix = new TextView[9][9];
+    TextView[] keypadButtons = new TextView[11];
+    boolean hasCurrentlySelected = false;
+    TextView currentlySelected = null;
+    String currentTextStorage = "";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        ImageButton deleteButton = findViewById(buttonDelete);
-        ImageButton editButton = findViewById(R.id.buttonEdit);
-        for (int row = 0; row < 9; row++){
-            for (int col = 0; col < 9; col++){
+        for (int row = 0; row < 9; row++) {
+            for (int col = 0; col < 9; col++) {
                 int id = getResources().getIdentifier(String.format("txt_%d_%d", row, col), "id", getPackageName());
                 TextView current = findViewById(id);
-                matrix[row][col] = current;
+                current.setOnClickListener(new View.OnClickListener() {
+                    @Override
+                    public void onClick(View view) {
+                        if (!hasCurrentlySelected) {
+                            currentlySelected = current;
+                            currentTextStorage = current.getText().toString();
+                            hasCurrentlySelected = true;
+                        }
+                    }
+                });
 
+                sudokuMatrix[row][col] = current;
             }
-
         }
-        deleteButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                for (int row = 0; row < 9; row++){
-                    for (int col = 0; col < 9; col++){
-                        matrix[row][col].setText("");
+        for (int i = 1; i <= 9; i++){
+            int id = getResources().getIdentifier(String.format("keyNum%d", i), "id", getPackageName());
+            TextView current = findViewById(id);
+
+            current.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    if (hasCurrentlySelected){
+                        currentlySelected.setText(current.getText());
                     }
+                }
+            });
+            keypadButtons[i - 1] = current;
+        }
+        keypadButtons[9] = findViewById(getResources().getIdentifier(String.format("keyEdit"), "id", getPackageName()));
+        keypadButtons[9].setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                if (hasCurrentlySelected){
+                    hasCurrentlySelected = false;
                 }
             }
         });
-        editButton.setOnClickListener(new View.OnClickListener() {
+        keypadButtons[10] = findViewById(getResources().getIdentifier(String.format("keyDelete"), "id", getPackageName()));
+        keypadButtons[10].setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
-                for (int row = 0; row < 9; row++){
-                    for (int col = 0; col < 9; col++){
-                        matrix[row][col].setText("1");
-                    }
+            public void onClick(View view) {
+                if (hasCurrentlySelected) {
+                    currentlySelected.setText(currentTextStorage);
+                    hasCurrentlySelected = false;
                 }
             }
         });
-
-
-
     }
 }

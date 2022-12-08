@@ -28,27 +28,28 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
                         android:id="@+id/txt_0_0"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="9"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText>
+                    <EditText
                         android:id="@+id/txt_0_1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="1"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText>
+                    <EditText
+
                         android:id="@+id/txt_0_2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -57,14 +58,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_1_0"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -73,8 +76,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_1_1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -83,8 +88,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_1_2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -93,14 +100,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_2_0"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -109,23 +118,28 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_2_1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="7"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_2_2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
             </LinearLayout>
             <LinearLayout
@@ -139,7 +153,8 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_0_3"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -148,8 +163,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_0_4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -158,8 +175,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_0_5"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -168,14 +187,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_1_3"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -184,8 +205,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_1_4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -194,8 +217,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_1_5"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -204,14 +229,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_2_3"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -220,8 +247,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_2_4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -230,13 +259,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_2_5"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
             </LinearLayout>
             <LinearLayout
@@ -250,7 +282,8 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_0_6"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -259,8 +292,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_0_7"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -269,8 +304,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_0_8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -279,14 +316,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_1_6"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -295,8 +334,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_1_7"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -305,8 +346,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_1_8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -315,14 +358,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_2_6"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -331,8 +376,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_2_7"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -341,13 +388,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_2_8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
             </LinearLayout>
         </LinearLayout>
@@ -367,7 +417,8 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_3_0"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -376,8 +427,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_3_1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -386,8 +439,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_3_2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -396,14 +451,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_4_0"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -412,8 +469,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_4_1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -422,8 +481,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_4_2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -432,14 +493,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_5_0"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -448,8 +511,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_5_1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -458,13 +523,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_5_2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
             </LinearLayout>
             <LinearLayout
@@ -478,7 +546,8 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_3_3"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -487,8 +556,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_3_4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -497,8 +568,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_3_5"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -507,14 +580,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_4_3"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -523,8 +598,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_4_4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -533,8 +610,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_4_5"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -543,14 +622,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_5_3"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -559,8 +640,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_5_4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -569,13 +652,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_5_5"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
             </LinearLayout>
             <LinearLayout
@@ -589,7 +675,8 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_3_6"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -598,8 +685,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_3_7"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -608,8 +697,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_3_8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -618,14 +709,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_4_6"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -634,8 +727,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_4_7"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -644,8 +739,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_4_8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -654,14 +751,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_5_6"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -670,8 +769,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_5_7"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -680,13 +781,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_5_8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
             </LinearLayout>
         </LinearLayout>
@@ -706,7 +810,8 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_6_0"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -715,8 +820,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_6_1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -725,8 +832,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_6_2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -735,14 +844,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_7_0"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -751,9 +862,11 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
 
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_7_1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -762,9 +875,11 @@
                         android:gravity="center"
                         android:text=""
                         android:textAlignment="center"
-                        android:textSize="40sp"></TextView>
+                        android:textSize="40sp"></EditText
+                        >
 
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_7_2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -773,14 +888,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_8_0"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -789,8 +906,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_8_1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -799,13 +918,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_8_2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText
+                        >
                 </LinearLayout>
             </LinearLayout>
             <LinearLayout
@@ -819,7 +941,7 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
                         android:id="@+id/txt_6_3"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -828,8 +950,8 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText>
+                    <EditText
                         android:id="@+id/txt_6_4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -838,8 +960,9 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight">
+                    </EditText>
+                    <EditText
                         android:id="@+id/txt_6_5"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -848,14 +971,17 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight">
+
+                    </EditText>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_7_3"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -864,8 +990,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight">
+                    </EditText>
+                    <EditText
+
                         android:id="@+id/txt_7_4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -874,8 +1002,9 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText>
+                    <EditText
+
                         android:id="@+id/txt_7_5"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -884,14 +1013,16 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight">
+                    </EditText>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_8_3"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -900,8 +1031,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+                        >
+                    <EditText
+
                         android:id="@+id/txt_8_4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -910,13 +1043,15 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+>
+                    <EditText
+
                         android:id="@+id/txt_8_5"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText>
                 </LinearLayout>
             </LinearLayout>
             <LinearLayout
@@ -930,7 +1065,8 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_6_6"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -939,8 +1075,10 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText
+>
+                    <EditText
+
                         android:id="@+id/txt_6_7"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -949,8 +1087,9 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText>
+                    <EditText
+
                         android:id="@+id/txt_6_8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -959,14 +1098,15 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_7_6"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -975,8 +1115,9 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText>
+                    <EditText
+
                         android:id="@+id/txt_7_7"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -985,8 +1126,9 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText>
+                    <EditText
+
                         android:id="@+id/txt_7_8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -995,14 +1137,15 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="horizontal">
-                    <TextView
+                    <EditText
+
                         android:id="@+id/txt_8_6"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -1011,8 +1154,9 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText>
+                    <EditText
+
                         android:id="@+id/txt_8_7"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -1021,13 +1165,14 @@
                         android:gravity="center"
                         android:textAlignment="center"
                         android:textSize="40sp"
-                        android:background="@drawable/borderlight"></TextView>
-                    <TextView
+                        android:background="@drawable/borderlight"></EditText>
+                    <EditText
+
                         android:id="@+id/txt_8_8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:background="@drawable/borderlight"></TextView>
+                        android:background="@drawable/borderlight"></EditText>
                 </LinearLayout>
             </LinearLayout>
         </LinearLayout>
@@ -1047,7 +1192,8 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:orientation="horizontal">
-                <TextView
+                <EditText
+
                     android:id="@+id/keyNum1"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -1055,8 +1201,9 @@
                     android:text="1"
                     android:gravity="center"
                     android:textAlignment="center"
-                    android:textSize="40sp"></TextView>
-                <TextView
+                    android:textSize="40sp"></EditText>
+                <EditText
+
                     android:id="@+id/keyNum2"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -1064,8 +1211,9 @@
                     android:text="2"
                     android:gravity="center"
                     android:textAlignment="center"
-                    android:textSize="40sp"></TextView>
-                <TextView
+                    android:textSize="40sp"></EditText>
+                <EditText
+
                     android:id="@+id/keyNum3"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -1073,14 +1221,15 @@
                     android:text="3"
                     android:gravity="center"
                     android:textAlignment="center"
-                    android:textSize="40sp"></TextView>
+                    android:textSize="40sp"></EditText>
             </LinearLayout>
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:orientation="horizontal">
-                <TextView
+                <EditText
+
                     android:id="@+id/keyNum4"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -1088,8 +1237,9 @@
                     android:text="4"
                     android:gravity="center"
                     android:textAlignment="center"
-                    android:textSize="40sp"></TextView>
-                <TextView
+                    android:textSize="40sp"></EditText>
+                <EditText
+
                     android:id="@+id/keyNum5"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -1097,8 +1247,9 @@
                     android:text="5"
                     android:gravity="center"
                     android:textAlignment="center"
-                    android:textSize="40sp"></TextView>
-                <TextView
+                    android:textSize="40sp"></EditText>
+                <EditText
+
                     android:id="@+id/keyNum6"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -1106,14 +1257,15 @@
                     android:text="6"
                     android:gravity="center"
                     android:textAlignment="center"
-                    android:textSize="40sp"></TextView>
+                    android:textSize="40sp"></EditText>
             </LinearLayout>
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:orientation="horizontal">
-                <TextView
+                <EditText
+
                     android:id="@+id/keyNum7"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -1121,8 +1273,9 @@
                     android:text="7"
                     android:gravity="center"
                     android:textAlignment="center"
-                    android:textSize="40sp"></TextView>
-                <TextView
+                    android:textSize="40sp"></EditText>
+                <EditText
+
                     android:id="@+id/keyNum8"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -1130,8 +1283,9 @@
                     android:text="8"
                     android:gravity="center"
                     android:textAlignment="center"
-                    android:textSize="40sp"></TextView>
-                <TextView
+                    android:textSize="40sp"></EditText>
+                <EditText
+
                     android:id="@+id/keyNum9"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -1139,7 +1293,7 @@
                     android:text="9"
                     android:gravity="center"
                     android:textAlignment="center"
-                    android:textSize="40sp"></TextView>
+                    android:textSize="40sp"></EditText>
             </LinearLayout>
         </LinearLayout>
         <LinearLayout
