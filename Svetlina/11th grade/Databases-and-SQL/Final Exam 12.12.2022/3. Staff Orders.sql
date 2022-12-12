@@ -1,8 +1,16 @@
-SELECT c.FirstName, c.LastName,
-COUNT(o.OrderId) 
-AS Orders
-FROM Customers c
-JOIN Orders o
-ON c.CustomerId = o.CustomerId
-GROUP BY c.FirstName, c.LastName
-ORDER BY Orders DESC, FirstName ASC
+CREATE PROCEDURE usp_GetOrdersOfStaff(@staffId int)
+AS
+BEGIN
+    SELECT s.StaffId,
+	FirstName 
+	AS "First Name", 
+	LastName 
+	AS "Last Name", 
+	COUNT(o.orderId) 
+	AS "Orders Count"
+    FROM Staffs AS s
+    JOIN orders AS o 
+	ON o.StaffId = s.staffId
+    WHERE s.staffId = @staffId
+    GROUP BY s.StaffId, s.FirstName, s.LastName
+END
