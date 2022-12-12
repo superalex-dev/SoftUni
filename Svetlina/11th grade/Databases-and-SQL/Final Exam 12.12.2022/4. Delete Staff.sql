@@ -1,0 +1,6 @@
+CREATE OR ALTER TRIGGER tr_StaffDelete 
+ON Staffs
+INSTEAD OF DELETE
+AS
+UPDATE Staffs SET Active = 0
+WHERE StaffId IN (SELECT StaffId FROM deleted)
