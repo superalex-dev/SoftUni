@@ -1192,7 +1192,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:orientation="horizontal">
-                <EditText
+                <Button
 
                     android:id="@+id/keyNum1"
                     android:layout_width="match_parent"
@@ -1201,8 +1201,8 @@
                     android:text="1"
                     android:gravity="center"
                     android:textAlignment="center"
-                    android:textSize="40sp"></EditText>
-                <EditText
+                    android:textSize="40sp"></Button>
+                <Button
 
                     android:id="@+id/keyNum2"
                     android:layout_width="match_parent"
@@ -1211,8 +1211,8 @@
                     android:text="2"
                     android:gravity="center"
                     android:textAlignment="center"
-                    android:textSize="40sp"></EditText>
-                <EditText
+                    android:textSize="40sp"></Button>
+                <Button
 
                     android:id="@+id/keyNum3"
                     android:layout_width="match_parent"
@@ -1221,14 +1221,14 @@
                     android:text="3"
                     android:gravity="center"
                     android:textAlignment="center"
-                    android:textSize="40sp"></EditText>
+                    android:textSize="40sp"></Button>
             </LinearLayout>
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:orientation="horizontal">
-                <EditText
+                <Button
 
                     android:id="@+id/keyNum4"
                     android:layout_width="match_parent"
@@ -1237,8 +1237,8 @@
                     android:text="4"
                     android:gravity="center"
                     android:textAlignment="center"
-                    android:textSize="40sp"></EditText>
-                <EditText
+                    android:textSize="40sp"></Button>
+                <Button
 
                     android:id="@+id/keyNum5"
                     android:layout_width="match_parent"
@@ -1247,8 +1247,8 @@
                     android:text="5"
                     android:gravity="center"
                     android:textAlignment="center"
-                    android:textSize="40sp"></EditText>
-                <EditText
+                    android:textSize="40sp"></Button>
+                <Button
 
                     android:id="@+id/keyNum6"
                     android:layout_width="match_parent"
@@ -1257,14 +1257,14 @@
                     android:text="6"
                     android:gravity="center"
                     android:textAlignment="center"
-                    android:textSize="40sp"></EditText>
+                    android:textSize="40sp"></Button>
             </LinearLayout>
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:orientation="horizontal">
-                <EditText
+                <Button
 
                     android:id="@+id/keyNum7"
                     android:layout_width="match_parent"
@@ -1273,8 +1273,8 @@
                     android:text="7"
                     android:gravity="center"
                     android:textAlignment="center"
-                    android:textSize="40sp"></EditText>
-                <EditText
+                    android:textSize="40sp"></Button>
+                <Button
 
                     android:id="@+id/keyNum8"
                     android:layout_width="match_parent"
@@ -1283,8 +1283,8 @@
                     android:text="8"
                     android:gravity="center"
                     android:textAlignment="center"
-                    android:textSize="40sp"></EditText>
-                <EditText
+                    android:textSize="40sp"></Button>
+                <Button
 
                     android:id="@+id/keyNum9"
                     android:layout_width="match_parent"
@@ -1293,7 +1293,7 @@
                     android:text="9"
                     android:gravity="center"
                     android:textAlignment="center"
-                    android:textSize="40sp"></EditText>
+                    android:textSize="40sp"></Button>
             </LinearLayout>
         </LinearLayout>
         <LinearLayout
