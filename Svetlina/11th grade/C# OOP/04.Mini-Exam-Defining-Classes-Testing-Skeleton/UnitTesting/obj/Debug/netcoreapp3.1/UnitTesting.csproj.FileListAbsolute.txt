@@ -1,0 +1,13 @@
+C:\Users\Viktoriya\source\repos\MiniExam-DefiningClassesAndTesting\UnitTesting\bin\Debug\netcoreapp3.1\UnitTesting.exe
+C:\Users\Viktoriya\source\repos\MiniExam-DefiningClassesAndTesting\UnitTesting\bin\Debug\netcoreapp3.1\UnitTesting.deps.json
+C:\Users\Viktoriya\source\repos\MiniExam-DefiningClassesAndTesting\UnitTesting\bin\Debug\netcoreapp3.1\UnitTesting.runtimeconfig.json
+C:\Users\Viktoriya\source\repos\MiniExam-DefiningClassesAndTesting\UnitTesting\bin\Debug\netcoreapp3.1\UnitTesting.runtimeconfig.dev.json
+C:\Users\Viktoriya\source\repos\MiniExam-DefiningClassesAndTesting\UnitTesting\bin\Debug\netcoreapp3.1\UnitTesting.dll
+C:\Users\Viktoriya\source\repos\MiniExam-DefiningClassesAndTesting\UnitTesting\bin\Debug\netcoreapp3.1\UnitTesting.pdb
+C:\Users\Viktoriya\source\repos\MiniExam-DefiningClassesAndTesting\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.csprojAssemblyReference.cache
+C:\Users\Viktoriya\source\repos\MiniExam-DefiningClassesAndTesting\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.AssemblyInfoInputs.cache
+C:\Users\Viktoriya\source\repos\MiniExam-DefiningClassesAndTesting\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.AssemblyInfo.cs
+C:\Users\Viktoriya\source\repos\MiniExam-DefiningClassesAndTesting\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya\source\repos\MiniExam-DefiningClassesAndTesting\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.dll
+C:\Users\Viktoriya\source\repos\MiniExam-DefiningClassesAndTesting\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.pdb
+C:\Users\Viktoriya\source\repos\MiniExam-DefiningClassesAndTesting\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.genruntimeconfig.cache
