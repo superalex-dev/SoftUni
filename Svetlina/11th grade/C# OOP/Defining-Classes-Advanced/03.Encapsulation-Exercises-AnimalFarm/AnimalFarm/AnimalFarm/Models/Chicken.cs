@@ -25,7 +25,7 @@ namespace AnimalFarm.Models
 
             set
             {
-                if (string.IsNullOrWhiteSpace(value))
+                if (string.IsNullOrEmpty(value))
                 {
                     throw new ArgumentException("Name cannot be empty.");
                 }
