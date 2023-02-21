@@ -41,7 +41,7 @@ public class ShowDataActivity extends AppCompatActivity {
         buttonConfirm.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(ShowDataActivity.this, ConfirmActivity.class);
+                Intent intent = new Intent(ShowDataActivity.this, HomePageActivity.class);
                 startActivity(intent);
             }
         });
