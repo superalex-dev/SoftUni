@@ -13,6 +13,8 @@ public class ShowDataActivity extends AppCompatActivity {
     private TextView textViewPassword;
     private Button buttonReturn;
 
+    private Button buttonConfirm;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -27,10 +29,19 @@ public class ShowDataActivity extends AppCompatActivity {
         textViewEmail.setText(email);
         textViewPassword.setText(password);
         buttonReturn = findViewById(R.id.buttonReturn);
+        buttonConfirm = findViewById(R.id.buttonConfirm);
         buttonReturn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(ShowDataActivity.this, MainActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        buttonConfirm.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(ShowDataActivity.this, ConfirmActivity.class);
                 startActivity(intent);
             }
         });
