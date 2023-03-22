@@ -1,27 +1,19 @@
-const stopNameElement = document.getElementById('stopName');
-const busesListElement = document.getElementById('buses');
+async function getInfo() {
+  let stopId = document.querySelector('#stopId').value;
+  let stopName = document.querySelector('#stopName');
+  let buses = document.querySelector('#buses');
 
-document.getElementById('submit').addEventListener('click', loadBusInfo);
-
-function loadBusInfo() {
-  const stopId = document.getElementById('stopId').value;
-  const url = `http://localhost:3030/jsonstore/bus/businfo/${stopId}`;
-  
-  busesListElement.innerHTML = '';
-  
-  fetch(url)
-    .then(response => response.json())
-    .then(data => {
-      const { name, buses } = data[stopId];
-      stopNameElement.textContent = name;
-      
-      for (const [busId, time] of Object.entries(buses)) {
-        const listItem = document.createElement('li');
-        listItem.textContent = `Bus ${busId} arrives in ${time} minutes`;
-        busesListElement.appendChild(listItem);
+  try {
+      let response = await (await fetch(`http://localhost:3030/jsonstore/bus/businfo/${stopId}`)).json();
+      stopName.textContent = response.name;
+      for (const [bus, time] of Object.entries(response.buses)) {
+          let li = document.createElement('li');
+          li.textContent = `Bus ${bus} arrives in ${time} minutes`;
+          buses.appendChild(li);
       }
-    })
-    .catch(() => {
-      stopNameElement.textContent = 'Error';
-    });
+  }
+  catch {
+      stopName.textContent = 'Error';
+      buses.innerHTML = '';
+  }
 }
