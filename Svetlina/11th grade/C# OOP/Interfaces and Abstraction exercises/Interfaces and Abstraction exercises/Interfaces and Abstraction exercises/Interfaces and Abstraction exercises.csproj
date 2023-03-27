@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Interfaces_and_Abstraction_exercises</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>10</LangVersion>
+    <TargetFrameworks>net6.0;net6.0-windows;netcoreapp3.1</TargetFrameworks>
+  </PropertyGroup>
+
+</Project>
