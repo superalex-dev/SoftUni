@@ -1,0 +1,15 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Golf Spa Resort\bin\Debug\net6.0\Golf Spa Resort.exe
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Golf Spa Resort\bin\Debug\net6.0\Golf Spa Resort.deps.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Golf Spa Resort\bin\Debug\net6.0\Golf Spa Resort.runtimeconfig.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Golf Spa Resort\bin\Debug\net6.0\Golf Spa Resort.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Golf Spa Resort\bin\Debug\net6.0\Golf Spa Resort.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Golf Spa Resort\obj\Debug\net6.0\Golf Spa Resort.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Golf Spa Resort\obj\Debug\net6.0\Golf Spa Resort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Golf Spa Resort\obj\Debug\net6.0\Golf Spa Resort.AssemblyInfoInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Golf Spa Resort\obj\Debug\net6.0\Golf Spa Resort.AssemblyInfo.cs
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Golf Spa Resort\obj\Debug\net6.0\Golf Spa Resort.csproj.CoreCompileInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Golf Spa Resort\obj\Debug\net6.0\Golf Spa Resort.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Golf Spa Resort\obj\Debug\net6.0\refint\Golf Spa Resort.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Golf Spa Resort\obj\Debug\net6.0\Golf Spa Resort.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Golf Spa Resort\obj\Debug\net6.0\Golf Spa Resort.genruntimeconfig.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Golf Spa Resort\obj\Debug\net6.0\ref\Golf Spa Resort.dll

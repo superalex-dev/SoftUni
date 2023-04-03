@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini_Exam_Interfaces_and_Abstraction", "Mini_Exam_Interfaces_and_Abstraction\Mini_Exam_Interfaces_and_Abstraction.csproj", "{BA3D582D-9CED-49B8-B692-A9C1183F25BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyHierarchy", "CompanyHierarchy\CompanyHierarchy.csproj", "{FC8D73CF-ADE6-4F62-8566-9B8B463B1B07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA3D582D-9CED-49B8-B692-A9C1183F25BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3D582D-9CED-49B8-B692-A9C1183F25BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA3D582D-9CED-49B8-B692-A9C1183F25BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3D582D-9CED-49B8-B692-A9C1183F25BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC8D73CF-ADE6-4F62-8566-9B8B463B1B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8D73CF-ADE6-4F62-8566-9B8B463B1B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8D73CF-ADE6-4F62-8566-9B8B463B1B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8D73CF-ADE6-4F62-8566-9B8B463B1B07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD1909F-21A6-4BF8-AC3E-7847E03E216E}
+	EndGlobalSection
+EndGlobal

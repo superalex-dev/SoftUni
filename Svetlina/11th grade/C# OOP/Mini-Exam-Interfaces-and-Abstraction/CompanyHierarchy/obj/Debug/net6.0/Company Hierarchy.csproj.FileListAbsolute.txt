@@ -1,0 +1,15 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Company Hierarchy\bin\Debug\net6.0\Company Hierarchy.exe
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Company Hierarchy\bin\Debug\net6.0\Company Hierarchy.deps.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Company Hierarchy\bin\Debug\net6.0\Company Hierarchy.runtimeconfig.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Company Hierarchy\bin\Debug\net6.0\Company Hierarchy.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Company Hierarchy\bin\Debug\net6.0\Company Hierarchy.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Company Hierarchy\obj\Debug\net6.0\Company Hierarchy.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Company Hierarchy\obj\Debug\net6.0\Company Hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Company Hierarchy\obj\Debug\net6.0\Company Hierarchy.AssemblyInfoInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Company Hierarchy\obj\Debug\net6.0\Company Hierarchy.AssemblyInfo.cs
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Company Hierarchy\obj\Debug\net6.0\Company Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Company Hierarchy\obj\Debug\net6.0\Company Hierarchy.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Company Hierarchy\obj\Debug\net6.0\refint\Company Hierarchy.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Company Hierarchy\obj\Debug\net6.0\Company Hierarchy.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Company Hierarchy\obj\Debug\net6.0\Company Hierarchy.genruntimeconfig.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Mini-Exam-Interfaces-and-Abstraction\Company Hierarchy\obj\Debug\net6.0\ref\Company Hierarchy.dll
