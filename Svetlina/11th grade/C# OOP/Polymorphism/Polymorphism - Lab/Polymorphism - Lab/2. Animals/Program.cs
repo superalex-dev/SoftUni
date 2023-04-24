@@ -1,12 +1,17 @@
-﻿using System;
+﻿using _2._Animals;
+using System;
 
-namespace Application
+namespace Animal
 {
     public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Cat cat = new Cat("Pesho", "Whiskas");
+            Dog dog = new Dog("Gosho", "Meat");
+
+            Console.WriteLine(cat.ExplainSelf());
+            Console.WriteLine(dog.ExplainSelf());
         }
     }
 }
