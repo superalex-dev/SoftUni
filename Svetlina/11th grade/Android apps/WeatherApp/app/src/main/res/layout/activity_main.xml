@@ -1,47 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     android:padding="16dp">
 
-    <TextView
-        android:id="@+id/text_location"
+    <EditText
+        android:id="@+id/cityEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Location"
-        android:textColor="#FFFF"
-        android:textSize="24sp"
-        android:textStyle="bold" />
+        android:hint="Enter city name" />
 
-    <TextView
-        android:id="@+id/text_temperature"
+    <RadioGroup
+        android:id="@+id/unitsRadioGroup"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Temperature"
-        android:textColor="#FFFF"
-        android:textSize="18sp" />
+        android:layout_below="@id/cityEditText"
+        android:orientation="horizontal">
 
-    <TextView
-        android:id="@+id/text_humidity"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Humidity"
-        android:textColor="#FFFF"
-        android:textSize="18sp" />
+        <RadioButton
+            android:id="@+id/imperialButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="Imperial" />
 
-    <TextView
-        android:id="@+id/text_wind_speed"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Wind Speed"
-        android:textColor="#FFFF"
-        android:textSize="18sp" />
+        <RadioButton
+            android:id="@+id/metricButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Metric" />
+
+    </RadioGroup>
 
     <Button
-        android:id="@+id/button_refresh"
-        android:layout_width="wrap_content"
+        android:id="@+id/searchButton"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Refresh" />
+        android:layout_below="@id/unitsRadioGroup"
+        android:text="Search" />
 
-</LinearLayout>
+    <Button
+        android:id="@+id/getWeatherButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/searchButton"
+        android:text="Get Weather" />
+
+    <TextView
+        android:id="@+id/resultTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/getWeatherButton"
+        android:layout_marginTop="16dp" />
+
+</RelativeLayout>

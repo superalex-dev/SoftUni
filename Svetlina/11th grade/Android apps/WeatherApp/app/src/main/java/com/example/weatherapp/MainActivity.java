@@ -2,74 +2,124 @@ package com.example.weatherapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.app.DownloadManager;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
+import android.widget.EditText;
+import android.widget.RadioButton;
+import android.widget.RadioGroup;
 import android.widget.TextView;
-import android.widget.Toast;
-
-import com.android.volley.RequestQueue;
-import com.android.volley.Response;
 
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.URL;
+
 public class MainActivity extends AppCompatActivity {
 
-    private TextView textLocation;
-    private TextView textTemperature;
-    private TextView textHumidity;
-    private TextView textWindSpeed;
+    private EditText cityEditText;
+    private TextView resultTextView;
+    private RadioGroup unitsRadioGroup;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        textLocation = findViewById(R.id.text_location);
-        textTemperature = findViewById(R.id.text_temperature);
-        textHumidity = findViewById(R.id.text_humidity);
-        textWindSpeed = findViewById(R.id.text_wind_speed);
+        cityEditText = findViewById(R.id.cityEditText);
+            resultTextView = findViewById(R.id.resultTextView);
+            unitsRadioGroup = findViewById(R.id.unitsRadioGroup);
 
-        Button buttonRefresh = findViewById(R.id.button_refresh);
-        buttonRefresh.setOnClickListener(new View.OnClickListener() {
+            findViewById(R.id.searchButton).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                fetchWeatherForecast();
+                String cityName = cityEditText.getText().toString().trim();
+                if (cityName.isEmpty()) {
+                    cityEditText.setError("Please enter a city name");
+                    return;
+                }
+                new GetWeatherTask().execute(cityName);
             }
         });
 
-        fetchWeatherForecast();
+        findViewById(R.id.getWeatherButton).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String cityName = cityEditText.getText().toString().trim();
+                if (cityName.isEmpty()) {
+                    cityEditText.setError("Please enter a city name");
+                    return;
+                }
+
+                int selectedRadioButtonId = unitsRadioGroup.getCheckedRadioButtonId();
+                String units = "imperial";
+                if (selectedRadioButtonId == R.id.metricButton) {
+                    units = "metric";
+                }
+
+                new GetWeatherTask().execute(cityName, units);
+            }
+        });
     }
 
-    private void fetchWeatherForecast() {
-        String url = "https://api.open-meteo.com/v1/forecast?latitude=52.52&longitude=13.41&current_weather=true&hourly=temperature_2m,relativehumidity_2m,windspeed_10m";
-        JsonObjectRequest request = new JsonObjectRequest(DownloadManager.Request.Method.GET, url, null, new Response.Listener<JSONObject>() {
-            @Override
-            public void onResponse(JSONObject response) {
-                try {
-                    WeatherForecast weatherForecast = new WeatherForecast();
-                    weatherForecast.setTemperature(response.getJSONArray("temperature_2m").getDouble(0));
-                    weatherForecast.setHumidity(response.getJSONArray("relativehumidity_2m").getDouble(0));
-                    weatherForecast.setWindSpeed(response.getJSONArray("windspeed_10m").getDouble(0));
+    private class GetWeatherTask extends AsyncTask<String, Void, String> {
 
-                    textLocation.setText("Berlin"); // Set location name here
-                    textTemperature.setText("Temperature: " + weatherForecast.getTemperature() + "°C");
-                    textHumidity.setText("Humidity: " + weatherForecast.getHumidity() + "%");
-                    textWindSpeed.setText("Wind Speed: " + weatherForecast.getWindSpeed() + "m/s");
-                } catch (JSONException e) {
-                    e.printStackTrace();
+        @Override
+        protected String doInBackground(String... params) {
+            String cityName = params[0];
+            String units = "imperial";
+            if (params.length > 1) {
+                units = params[1];
+            }
+
+            try {
+                URL url = new URL(String.format("https://api.openweathermap.org/data/2.5/weather?q=%s&appid=615592e64a3088c21f7335f69f37655d&units=%s", cityName, units));
+                HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+
+                BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
+
+                StringBuilder json = new StringBuilder(1024);
+                String tmp;
+                while ((tmp = reader.readLine()) != null) {
+                    json.append(tmp).append("\n");
                 }
-            }
-        }, new Response.ErrorListener() {
-            @Override
-            public void onErrorResponse(VolleyError error) {
-                Toast.makeText(MainActivity.this, "Error fetching weather forecast", Toast.LENGTH_SHORT).show();
-            }
-        });
+                reader.close();
 
-        RequestQueue queue = Volley.newRequestQueue(this);
-        queue.add(request);
+                JSONObject data = new JSONObject(json.toString());
+
+                // This value will be 404 if the request was not successful
+                if (data.getInt("cod") != 200) {
+                    return null;
+                }
+
+                String cityNameAndCountry = data.getString("name") + ", " + data.getJSONObject("sys").getString("country");
+
+                JSONObject main = data.getJSONObject("main");
+
+                String temperature = String.format("%.0f°", main.getDouble("temp"));
+                String feelsLike = String.format("%.0f°", main.getDouble("feels_like"));
+                String description = data.getJSONArray("weather").getJSONObject(0).getString("description");
+
+                return cityNameAndCountry + "\nTemperature: " + temperature + "\nFeels like: " + feelsLike + "\nDescription: " + description;
+
+            } catch (Exception e) {
+                e.printStackTrace();
+                return null;
+            }
+        }
+
+        @Override
+        protected void onPostExecute(String s) {
+            super.onPostExecute(s);
+
+            if (s == null) {
+                resultTextView.setText("An error occurred. Please try again.");
+            } else {
+                resultTextView.setText(s);
+            }
+        }
     }
 }
