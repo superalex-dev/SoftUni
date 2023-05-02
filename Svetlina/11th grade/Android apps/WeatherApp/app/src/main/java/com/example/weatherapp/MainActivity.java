@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
             }
 
             try {
-                URL url = new URL(String.format("https://api.openweathermap.org/data/2.5/weather?q=%s&appid=615592e64a3088c21f7335f69f37655d&units=%s", cityName, units));
+                URL url = new URL(String.format("https://api.openweathermap.org/data/2.5/weather?q=%s&appid=nemaapizavas&units=%s", cityName, units));
                 HttpURLConnection connection = (HttpURLConnection) url.openConnection();
 
                 BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
