@@ -4,7 +4,7 @@ import { renderLogin } from './components/login.js';
 import { renderCatalog } from './components/catalog.js';
 import { renderEdit } from './components/edit.js';
 import { renderLogout } from './components/logout.js';
-
+import { renderMenu } from './components/menu.js';
 
 const routes = {
   '#home': renderHome,
@@ -15,10 +15,6 @@ const routes = {
   '#logout': renderLogout,
 };
 
-
-
-
-
 const handleRoute = () => {
   const currentRoute = window.location.hash;
   const renderFunction = routes[currentRoute] || renderHome;
@@ -26,4 +22,7 @@ const handleRoute = () => {
 };
 
 window.addEventListener('hashchange', handleRoute);
-window.addEventListener('DOMContentLoaded', handleRoute);
+window.addEventListener('DOMContentLoaded', () => {
+  renderMenu();
+  handleRoute();
+});
