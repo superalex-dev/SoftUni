@@ -1,40 +1,34 @@
 import { html, render } from 'https://unpkg.com/lit-html?module';
-
-// Add the necessary Firebase imports
 import { auth } from '../firebase.js';
 
 const registerTemplate = () => html`
   <section id="register">
     <h2>Register</h2>
-    <form @submit=${handleSubmit}>
+    <form @submit=${registerUser}>
       <label for="email">Email:</label>
-      <input type="email" id="email" name="email" required><br>
+      <input type="email" id="email" name="email" required>
       <label for="password">Password:</label>
-      <input type="password" id="password" name="password" required><br>
+      <input type="password" id="password" name="password" required>
       <button type="submit">Register</button>
     </form>
   </section>
 `;
 
-const handleSubmit = async (event) => {
-  event.preventDefault();
+const registerUser = async (e) => {
+  e.preventDefault();
 
-  const formData = new FormData(event.target);
-  const email = formData.get('email');
-  const password = formData.get('password');
+  const form = e.target;
+  const email = form.email.value;
+  const password = form.password.value;
 
   try {
-    // Create a new user with email and password
-    await auth.createUserWithEmailAndPassword(email, password);
-    
-    // Redirect the user to the home page after successful registration
-    window.location.hash = '#home';
+    const userCredential = await auth.createUserWithEmailAndPassword(email, password);
+    console.log('Registration successful:', userCredential.user);
+    // Optionally, you can redirect to a different page after successful registration
+    // window.location.href = '#home';
   } catch (error) {
-    console.log('Error:', error.message);
+    console.error('Registration error:', error.message);
   }
-
-  // Clear form fields
-  event.target.reset();
 };
 
 export const renderRegister = () => {
