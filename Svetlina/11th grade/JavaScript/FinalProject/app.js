@@ -1,18 +1,14 @@
 import { renderHome } from './components/home.js';
-import { renderLogin } from './components/login.js';
 import { renderRegister } from './components/register.js';
-import { renderCatalog } from './components/catalog.js';
-import { renderEdit } from './components/edit.js';
-import { renderLogout } from './components/logout.js';
-import { renderProfile } from './components/profile.js';
-import { renderNotFound } from './components/not-found.js';
-import { renderError } from './components/error.js';
-import { renderAdmin } from './components/admin.js';
+import { renderLogin } from './components/login.js';
 
 const routes = {
   '#home': renderHome,
-  // Add other routes for login, register, catalog, edit, and logout
+  '#login': renderLogin,
+  '#register': renderRegister,
+  // Add other routes for catalog, edit, and logout
 };
+
 
 const handleRoute = () => {
   const currentRoute = window.location.hash;
