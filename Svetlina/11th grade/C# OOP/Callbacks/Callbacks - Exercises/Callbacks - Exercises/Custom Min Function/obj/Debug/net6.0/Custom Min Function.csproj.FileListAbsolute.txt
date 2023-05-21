@@ -1,0 +1,15 @@
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Custom Min Function\bin\Debug\net6.0\Custom Min Function.exe
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Custom Min Function\bin\Debug\net6.0\Custom Min Function.deps.json
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Custom Min Function\bin\Debug\net6.0\Custom Min Function.runtimeconfig.json
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Custom Min Function\bin\Debug\net6.0\Custom Min Function.dll
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Custom Min Function\bin\Debug\net6.0\Custom Min Function.pdb
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Custom Min Function\obj\Debug\net6.0\Custom Min Function.csproj.AssemblyReference.cache
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Custom Min Function\obj\Debug\net6.0\Custom Min Function.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Custom Min Function\obj\Debug\net6.0\Custom Min Function.AssemblyInfoInputs.cache
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Custom Min Function\obj\Debug\net6.0\Custom Min Function.AssemblyInfo.cs
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Custom Min Function\obj\Debug\net6.0\Custom Min Function.csproj.CoreCompileInputs.cache
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Custom Min Function\obj\Debug\net6.0\Custom Min Function.dll
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Custom Min Function\obj\Debug\net6.0\refint\Custom Min Function.dll
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Custom Min Function\obj\Debug\net6.0\Custom Min Function.pdb
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Custom Min Function\obj\Debug\net6.0\Custom Min Function.genruntimeconfig.cache
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Custom Min Function\obj\Debug\net6.0\ref\Custom Min Function.dll

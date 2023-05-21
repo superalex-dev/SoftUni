@@ -1,0 +1,15 @@
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Callbacks - Exercises\bin\Debug\net6.0\Callbacks - Exercises.exe
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Callbacks - Exercises\bin\Debug\net6.0\Callbacks - Exercises.deps.json
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Callbacks - Exercises\bin\Debug\net6.0\Callbacks - Exercises.runtimeconfig.json
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Callbacks - Exercises\bin\Debug\net6.0\Callbacks - Exercises.dll
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Callbacks - Exercises\bin\Debug\net6.0\Callbacks - Exercises.pdb
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Callbacks - Exercises\obj\Debug\net6.0\Callbacks - Exercises.csproj.AssemblyReference.cache
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Callbacks - Exercises\obj\Debug\net6.0\Callbacks - Exercises.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Callbacks - Exercises\obj\Debug\net6.0\Callbacks - Exercises.AssemblyInfoInputs.cache
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Callbacks - Exercises\obj\Debug\net6.0\Callbacks - Exercises.AssemblyInfo.cs
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Callbacks - Exercises\obj\Debug\net6.0\Callbacks - Exercises.csproj.CoreCompileInputs.cache
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Callbacks - Exercises\obj\Debug\net6.0\Callbacks - Exercises.dll
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Callbacks - Exercises\obj\Debug\net6.0\refint\Callbacks - Exercises.dll
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Callbacks - Exercises\obj\Debug\net6.0\Callbacks - Exercises.pdb
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Callbacks - Exercises\obj\Debug\net6.0\Callbacks - Exercises.genruntimeconfig.cache
+D:\DesktopForProjects\SoftUni\Svetlina\11th grade\C# OOP\Callbacks\Callbacks - Exercises\Callbacks - Exercises\Callbacks - Exercises\obj\Debug\net6.0\ref\Callbacks - Exercises.dll
