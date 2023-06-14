@@ -11,6 +11,7 @@
   "dependencies": {
     "firebase": "^9.22.2",
     "lit-html": "^2.7.4",
-    "page": "^1.11.6"
+    "page": "^1.11.6",
+    "tailwindcss": "^3.3.2"
   }
 }
