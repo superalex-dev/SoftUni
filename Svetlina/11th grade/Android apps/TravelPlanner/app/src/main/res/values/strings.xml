@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">TravelPlanner</string>
-    <string name="destination_detail_title">Destination Detail</string>
-    <string name="destination_name">Destination Name</string>
-    <string name="destination_description">Destination Description</string>
-</resources>
