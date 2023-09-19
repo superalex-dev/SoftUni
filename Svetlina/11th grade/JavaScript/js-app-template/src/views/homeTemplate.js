@@ -26,6 +26,12 @@ function homeTemplate(html) {
                             <a class="nav-link" href="/about">Contact</a>
                          </li>
                          <li class="nav-item">
+                            <a class="nav-link" href="/register">Register</a>
+                         </li>
+                         <li class="nav-item">
+                            <a class="nav-link" href="/login">Login</a>
+                         </li>
+                         <li class="nav-item">
                             <a class="nav-link" href="/shopping-cart">
                                <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg"
                                   xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029"

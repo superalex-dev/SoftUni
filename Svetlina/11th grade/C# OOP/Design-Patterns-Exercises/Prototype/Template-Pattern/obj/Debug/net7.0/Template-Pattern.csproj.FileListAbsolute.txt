@@ -1,0 +1,15 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Design-Patterns-Exercises\Prototype\Template-Pattern\bin\Debug\net7.0\Template-Pattern.exe
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Design-Patterns-Exercises\Prototype\Template-Pattern\bin\Debug\net7.0\Template-Pattern.deps.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Design-Patterns-Exercises\Prototype\Template-Pattern\bin\Debug\net7.0\Template-Pattern.runtimeconfig.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Design-Patterns-Exercises\Prototype\Template-Pattern\bin\Debug\net7.0\Template-Pattern.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Design-Patterns-Exercises\Prototype\Template-Pattern\bin\Debug\net7.0\Template-Pattern.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Design-Patterns-Exercises\Prototype\Template-Pattern\obj\Debug\net7.0\Template-Pattern.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Design-Patterns-Exercises\Prototype\Template-Pattern\obj\Debug\net7.0\Template-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Design-Patterns-Exercises\Prototype\Template-Pattern\obj\Debug\net7.0\Template-Pattern.AssemblyInfoInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Design-Patterns-Exercises\Prototype\Template-Pattern\obj\Debug\net7.0\Template-Pattern.AssemblyInfo.cs
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Design-Patterns-Exercises\Prototype\Template-Pattern\obj\Debug\net7.0\Template-Pattern.csproj.CoreCompileInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Design-Patterns-Exercises\Prototype\Template-Pattern\obj\Debug\net7.0\Template-Pattern.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Design-Patterns-Exercises\Prototype\Template-Pattern\obj\Debug\net7.0\refint\Template-Pattern.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Design-Patterns-Exercises\Prototype\Template-Pattern\obj\Debug\net7.0\Template-Pattern.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Design-Patterns-Exercises\Prototype\Template-Pattern\obj\Debug\net7.0\Template-Pattern.genruntimeconfig.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Design-Patterns-Exercises\Prototype\Template-Pattern\obj\Debug\net7.0\ref\Template-Pattern.dll

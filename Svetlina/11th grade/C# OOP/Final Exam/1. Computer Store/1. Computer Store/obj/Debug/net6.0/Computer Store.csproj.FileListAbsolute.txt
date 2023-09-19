@@ -1,0 +1,15 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Final Exam\1. Computer Store\1. Computer Store\bin\Debug\net6.0\Computer Store.exe
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Final Exam\1. Computer Store\1. Computer Store\bin\Debug\net6.0\Computer Store.deps.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Final Exam\1. Computer Store\1. Computer Store\bin\Debug\net6.0\Computer Store.runtimeconfig.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Final Exam\1. Computer Store\1. Computer Store\bin\Debug\net6.0\Computer Store.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Final Exam\1. Computer Store\1. Computer Store\bin\Debug\net6.0\Computer Store.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Final Exam\1. Computer Store\1. Computer Store\obj\Debug\net6.0\Computer Store.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Final Exam\1. Computer Store\1. Computer Store\obj\Debug\net6.0\Computer Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Final Exam\1. Computer Store\1. Computer Store\obj\Debug\net6.0\Computer Store.AssemblyInfoInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Final Exam\1. Computer Store\1. Computer Store\obj\Debug\net6.0\Computer Store.AssemblyInfo.cs
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Final Exam\1. Computer Store\1. Computer Store\obj\Debug\net6.0\Computer Store.csproj.CoreCompileInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Final Exam\1. Computer Store\1. Computer Store\obj\Debug\net6.0\Computer Store.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Final Exam\1. Computer Store\1. Computer Store\obj\Debug\net6.0\refint\Computer Store.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Final Exam\1. Computer Store\1. Computer Store\obj\Debug\net6.0\Computer Store.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Final Exam\1. Computer Store\1. Computer Store\obj\Debug\net6.0\Computer Store.genruntimeconfig.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\11th grade\C# OOP\Final Exam\1. Computer Store\1. Computer Store\obj\Debug\net6.0\ref\Computer Store.dll

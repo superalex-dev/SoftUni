@@ -21,32 +21,8 @@ function catalogTemplate(html, querySnapshot, ctx) {
     </div>
     `
 
-    return html`
+    return  html`
     ${arr.map((doc) => itemCatalogTemplate(doc))}
-    <!DOCTYPE html>
-<html>
-   <head>
-      <!-- Basic -->
-      <meta charset="utf-8" />
-      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-      <!-- Mobile Metas -->
-      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-      <!-- Site Metas -->
-      <meta name="keywords" content="" />
-      <meta name="description" content="" />
-      <meta name="author" content="" />
-      <link rel="shortcut icon" href="src/images/favicon.png" type="">
-      <title>Autoportal - Products</title>
-      <!-- bootstrap core css -->
-      <link rel="stylesheet" type="text/css" href="src/css/bootstrap.css" />
-      <!-- font awesome style -->
-      <link href="src/css/font-awesome.min.css" rel="stylesheet" />
-      <!-- Custom styles for this template -->
-      <link href="src/css/style.css" rel="stylesheet" />
-      <!-- responsive style -->
-      <link href="src/css/responsive.css" rel="stylesheet" />
-   </head>
-   <body class="sub_page" onload="addProductsToLocalStorage()">
       <div class="hero_area">
          <!-- header section strats -->
          <header class="header_section">
@@ -237,7 +213,7 @@ function catalogTemplate(html, querySnapshot, ctx) {
                   <div class="box" id="product5">
                      <div class="option_container">
                         <div class="options" onclick="addToCart(99)">
-                           <a href="" class="option1">
+                           <a  class="option1">
                            Add To Cart
                            </a>
                         </div>
@@ -336,7 +312,7 @@ function catalogTemplate(html, querySnapshot, ctx) {
                            <a href="#"><img width="210" src="src/images/wrench.png" alt="#" /></a>
                         </div>
                         <div class="information_f">
-                           <p><strong>ADDRESS:</strong> Sofia, Boulevard Alexandar Malinov 45</p>
+                           <p><strong>ADDRESS:</strong> Sofia, Street Sokerez 69</p>
                            <p><strong>TELEPHONE:</strong> 088 888 8888</p>
                            <p><strong>EMAIL:</strong> autoportal@gmail.com</p>
                         </div>
@@ -375,8 +351,6 @@ function catalogTemplate(html, querySnapshot, ctx) {
       <!-- custom js -->
       <script src="js/custom.js"></script>
       <script src="js/shoppingCart.js"></script>
-   </body>
-</html>
     `
 }
 
