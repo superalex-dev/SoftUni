@@ -1,0 +1,15 @@
+D:\DesktopForProjects\SoftUni\Svetlina\12th grade\Data Structures\Data Structures Exercises\Data Structures Exercises\bin\Debug\net6.0\Data Structures Exercises.exe
+D:\DesktopForProjects\SoftUni\Svetlina\12th grade\Data Structures\Data Structures Exercises\Data Structures Exercises\bin\Debug\net6.0\Data Structures Exercises.deps.json
+D:\DesktopForProjects\SoftUni\Svetlina\12th grade\Data Structures\Data Structures Exercises\Data Structures Exercises\bin\Debug\net6.0\Data Structures Exercises.runtimeconfig.json
+D:\DesktopForProjects\SoftUni\Svetlina\12th grade\Data Structures\Data Structures Exercises\Data Structures Exercises\bin\Debug\net6.0\Data Structures Exercises.dll
+D:\DesktopForProjects\SoftUni\Svetlina\12th grade\Data Structures\Data Structures Exercises\Data Structures Exercises\bin\Debug\net6.0\Data Structures Exercises.pdb
+D:\DesktopForProjects\SoftUni\Svetlina\12th grade\Data Structures\Data Structures Exercises\Data Structures Exercises\obj\Debug\net6.0\Data Structures Exercises.csproj.AssemblyReference.cache
+D:\DesktopForProjects\SoftUni\Svetlina\12th grade\Data Structures\Data Structures Exercises\Data Structures Exercises\obj\Debug\net6.0\Data Structures Exercises.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesktopForProjects\SoftUni\Svetlina\12th grade\Data Structures\Data Structures Exercises\Data Structures Exercises\obj\Debug\net6.0\Data Structures Exercises.AssemblyInfoInputs.cache
+D:\DesktopForProjects\SoftUni\Svetlina\12th grade\Data Structures\Data Structures Exercises\Data Structures Exercises\obj\Debug\net6.0\Data Structures Exercises.AssemblyInfo.cs
+D:\DesktopForProjects\SoftUni\Svetlina\12th grade\Data Structures\Data Structures Exercises\Data Structures Exercises\obj\Debug\net6.0\Data Structures Exercises.csproj.CoreCompileInputs.cache
+D:\DesktopForProjects\SoftUni\Svetlina\12th grade\Data Structures\Data Structures Exercises\Data Structures Exercises\obj\Debug\net6.0\Data Structures Exercises.dll
+D:\DesktopForProjects\SoftUni\Svetlina\12th grade\Data Structures\Data Structures Exercises\Data Structures Exercises\obj\Debug\net6.0\refint\Data Structures Exercises.dll
+D:\DesktopForProjects\SoftUni\Svetlina\12th grade\Data Structures\Data Structures Exercises\Data Structures Exercises\obj\Debug\net6.0\Data Structures Exercises.pdb
+D:\DesktopForProjects\SoftUni\Svetlina\12th grade\Data Structures\Data Structures Exercises\Data Structures Exercises\obj\Debug\net6.0\Data Structures Exercises.genruntimeconfig.cache
+D:\DesktopForProjects\SoftUni\Svetlina\12th grade\Data Structures\Data Structures Exercises\Data Structures Exercises\obj\Debug\net6.0\ref\Data Structures Exercises.dll
