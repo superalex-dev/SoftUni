@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Structures Exercises", "Data Structures Exercises\Data Structures Exercises.csproj", "{8DA7C90E-6842-4F86-9976-CC98BE822A1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Message", "Data Structures Exercises\1. Message.csproj", "{8DA7C90E-6842-4F86-9976-CC98BE822A1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Queued Numbers", "2. Queued Numbers\2. Queued Numbers.csproj", "{DC5F866C-BEC9-4E63-9BAE-522E896BBB48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8DA7C90E-6842-4F86-9976-CC98BE822A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DA7C90E-6842-4F86-9976-CC98BE822A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DA7C90E-6842-4F86-9976-CC98BE822A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC5F866C-BEC9-4E63-9BAE-522E896BBB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC5F866C-BEC9-4E63-9BAE-522E896BBB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC5F866C-BEC9-4E63-9BAE-522E896BBB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC5F866C-BEC9-4E63-9BAE-522E896BBB48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
