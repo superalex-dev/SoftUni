@@ -1,0 +1,15 @@
+C:\Users\naido\Desktop\SoftUni\Svetlina\12th grade\C#\EntryExercises\EntryExercises\bin\Debug\net7.0\EntryExercises.exe
+C:\Users\naido\Desktop\SoftUni\Svetlina\12th grade\C#\EntryExercises\EntryExercises\bin\Debug\net7.0\EntryExercises.deps.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\12th grade\C#\EntryExercises\EntryExercises\bin\Debug\net7.0\EntryExercises.runtimeconfig.json
+C:\Users\naido\Desktop\SoftUni\Svetlina\12th grade\C#\EntryExercises\EntryExercises\bin\Debug\net7.0\EntryExercises.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\12th grade\C#\EntryExercises\EntryExercises\bin\Debug\net7.0\EntryExercises.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\12th grade\C#\EntryExercises\EntryExercises\obj\Debug\net7.0\EntryExercises.csproj.AssemblyReference.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\12th grade\C#\EntryExercises\EntryExercises\obj\Debug\net7.0\EntryExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\Desktop\SoftUni\Svetlina\12th grade\C#\EntryExercises\EntryExercises\obj\Debug\net7.0\EntryExercises.AssemblyInfoInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\12th grade\C#\EntryExercises\EntryExercises\obj\Debug\net7.0\EntryExercises.AssemblyInfo.cs
+C:\Users\naido\Desktop\SoftUni\Svetlina\12th grade\C#\EntryExercises\EntryExercises\obj\Debug\net7.0\EntryExercises.csproj.CoreCompileInputs.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\12th grade\C#\EntryExercises\EntryExercises\obj\Debug\net7.0\EntryExercises.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\12th grade\C#\EntryExercises\EntryExercises\obj\Debug\net7.0\refint\EntryExercises.dll
+C:\Users\naido\Desktop\SoftUni\Svetlina\12th grade\C#\EntryExercises\EntryExercises\obj\Debug\net7.0\EntryExercises.pdb
+C:\Users\naido\Desktop\SoftUni\Svetlina\12th grade\C#\EntryExercises\EntryExercises\obj\Debug\net7.0\EntryExercises.genruntimeconfig.cache
+C:\Users\naido\Desktop\SoftUni\Svetlina\12th grade\C#\EntryExercises\EntryExercises\obj\Debug\net7.0\ref\EntryExercises.dll
