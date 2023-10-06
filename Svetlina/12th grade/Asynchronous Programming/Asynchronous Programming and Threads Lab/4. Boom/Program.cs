@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Threading;
 
-class Program
+public class Program
 {
     static void Main()
     {
