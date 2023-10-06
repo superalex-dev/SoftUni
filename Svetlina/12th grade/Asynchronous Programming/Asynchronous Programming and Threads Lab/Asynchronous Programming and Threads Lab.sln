@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Even Numbers", "Asynchronous Programming and Threads Lab\1. Even Numbers.csproj", "{D5FCDC4F-003A-46C1-845E-86AFC86016E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Even Numbers", "Asynchronous Programming and Threads Lab\Even Numbers.csproj", "{D5FCDC4F-003A-46C1-845E-86AFC86016E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Print Symbol", "2. Print Symbol\2. Print Symbol.csproj", "{6A3026CA-9E80-47F8-95F8-FF6D6C98AC6D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print Symbol", "2. Print Symbol\Print Symbol.csproj", "{6A3026CA-9E80-47F8-95F8-FF6D6C98AC6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Forward and Back", "3. Forward and Back\3. Forward and Back.csproj", "{ABD59C29-94D4-4FFE-9DDD-8C4F72C3C9A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forward and Back", "3. Forward and Back\Forward and Back.csproj", "{ABD59C29-94D4-4FFE-9DDD-8C4F72C3C9A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Boom", "4. Boom\4. Boom.csproj", "{9D483AF3-6639-444D-8C15-84658450762B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boom", "4. Boom\Boom.csproj", "{9D483AF3-6639-444D-8C15-84658450762B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

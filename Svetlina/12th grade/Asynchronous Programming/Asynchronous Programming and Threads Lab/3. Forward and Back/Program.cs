@@ -2,50 +2,53 @@
 using System.Collections.Generic;
 using System.Threading;
 
-public class Program
+namespace Forward_and_Back
 {
-    private static List<string> data = new List<string> { "o", "o", "x", "o", "o" };
-
-    private static object locker = new object();
-
-    static void Main()
+    public class Program
     {
-        Thread forwardThread = new Thread(Forward);
-        forwardThread.Start();
+        private static List<string> data = new List<string> { "o", "o", "x", "o", "o" };
 
-        Thread backThread = new Thread(Back);
-        backThread.Start();
-        forwardThread.Join();
-        backThread.Join();
-    }
+        private static object locker = new object();
 
-    private static void Forward()
-    {
-        Thread.Sleep(50);
-        lock (locker)
+        static void Main()
         {
-            data[4] = "f";
-            PrintList();
-        }
-    }
+            Thread forwardThread = new Thread(Forward);
+            forwardThread.Start();
 
-    private static void Back()
-    {
-        Thread.Sleep(100);
-        lock (locker)
-        {
-            data[4] = "o";
-            data[1] = "b";
-            PrintList();
+            Thread backThread = new Thread(Back);
+            backThread.Start();
+            forwardThread.Join();
+            backThread.Join();
         }
-    }
 
-    private static void PrintList()
-    {
-        foreach (string s in data)
+        private static void Forward()
         {
-            Console.Write(s + " ");
+            Thread.Sleep(50);
+            lock (locker)
+            {
+                data[4] = "f";
+                PrintList();
+            }
         }
-        Console.WriteLine();
+
+        private static void Back()
+        {
+            Thread.Sleep(100);
+            lock (locker)
+            {
+                data[4] = "o";
+                data[1] = "b";
+                PrintList();
+            }
+        }
+
+        private static void PrintList()
+        {
+            foreach (string s in data)
+            {
+                Console.Write(s + " ");
+            }
+            Console.WriteLine();
+        }
     }
 }

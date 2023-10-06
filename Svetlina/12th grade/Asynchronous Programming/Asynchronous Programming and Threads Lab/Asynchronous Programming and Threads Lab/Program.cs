@@ -1,28 +1,31 @@
 ﻿using System;
 using System.Threading;
 
-class Program
+namespace Even_Numbers
 {
-    static void Main()
+    class Program
     {
-        int start = int.Parse(Console.ReadLine());
-        int end = int.Parse(Console.ReadLine());
-
-        Thread evenNumberThread = new Thread(() => PrintEvenNumbers(start, end));
-        evenNumberThread.Start();
-
-        evenNumberThread.Join();
-
-        Console.WriteLine("Thread finished work");
-    }
-
-    private static void PrintEvenNumbers(int start, int end)
-    {
-        for (int i = start; i <= end; i++)
+        static void Main()
         {
-            if (i % 2 == 0)
+            int start = int.Parse(Console.ReadLine());
+            int end = int.Parse(Console.ReadLine());
+
+            Thread evenNumberThread = new Thread(() => PrintEvenNumbers(start, end));
+            evenNumberThread.Start();
+
+            evenNumberThread.Join();
+
+            Console.WriteLine("Thread finished work");
+        }
+
+        private static void PrintEvenNumbers(int start, int end)
+        {
+            for (int i = start; i <= end; i++)
             {
-                Console.WriteLine(i);
+                if (i % 2 == 0)
+                {
+                    Console.WriteLine(i);
+                }
             }
         }
     }

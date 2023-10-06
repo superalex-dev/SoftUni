@@ -1,25 +1,28 @@
 ﻿using System;
 using System.Threading;
 
-class Program
+namespace Print_Symbol
 {
-    private const int PrintCount = 450;
-
-    static void Main()
+    class Program
     {
-        Thread oThread = new Thread(() => Go('O'));
-        oThread.Start();
+        private const int PrintCount = 450;
 
-        Go('x');
-
-        oThread.Join();
-    }
-
-    static void Go(char symbol)
-    {
-        for (int i = 0; i < PrintCount; i++)
+        static void Main()
         {
-            Console.Write(symbol);
+            Thread oThread = new Thread(() => Go('O'));
+            oThread.Start();
+
+            Go('x');
+
+            oThread.Join();
+        }
+
+        static void Go(char symbol)
+        {
+            for (int i = 0; i < PrintCount; i++)
+            {
+                Console.Write(symbol);
+            }
         }
     }
 }
