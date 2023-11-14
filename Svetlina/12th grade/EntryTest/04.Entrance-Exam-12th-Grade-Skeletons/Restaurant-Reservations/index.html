@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./style.css">
+    <title>Restaurant Reservations</title>
+</head>
+
+<body>
+    <div id="block">
+        <h1>Restaurant Reservations</h1>
+        <h4>Book your table for any occasion! </h4>
+        <div id="form">
+            <div>
+                <label>Full Name:</label>
+                <input type="text" id="fname">
+            </div>
+            <div>
+                <label>Email:</label>
+                <input type="email" id="email">
+            </div>
+            <div>
+                <label>Phone Number:</label>
+                <input type="number" id="phone">
+            </div>
+            <div>
+                <label>Number of Guests:</label>
+                <input type="number" id="guests">
+            </div>
+            <div>
+                <label>Reservation Time:</label>
+                <input type="time" id="time">
+            </div>
+            <input type="button" id="submitBTN" value="Submit">
+        </div>
+
+        <div id="information">
+            <label>Preview your information:</label>
+            <div class="preview">
+                <ul id="infoPreview"></ul>
+                <div class="actions">
+                    <input type="button" id="editBTN" value="Edit" disabled>
+                    <input type="button" id="continueBTN" value="Continue" disabled>
+                </div>
+            </div>
+        </div>
+        <footer>Online Restaurant Reservations System</footer>
+    </div>
+    <script src="solution.js"></script>
+</body>

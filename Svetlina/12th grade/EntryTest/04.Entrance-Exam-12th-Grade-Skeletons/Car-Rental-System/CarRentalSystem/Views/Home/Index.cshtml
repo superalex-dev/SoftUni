@@ -1,0 +1,41 @@
+﻿@model IEnumerable<CarIndexServiceModel>
+@inject IDealerService dealers
+
+@{
+    ViewData["Title"] = "Home Page";
+    var cars = this.Model.ToList();
+}
+<h3 class="text-muted font-weight-bold" style="text-align:center; margin-bottom:15px; font-size:2.5rem;">Best Car Rental - Booking in a few clicks!</h3>
+@if (!cars.Any())
+{
+    <div class="jumbotron">
+        <h1 class="display-4">Welcome to the best Car Rental place!</h1>
+        <p class="lead">
+            There are no cars in the system currently available so why don't you just add one?
+        </p>
+        <hr class="my-4">
+        <p class="lead">
+            @if (this.User.Identity.IsAuthenticated && this.dealers.ExistsById(this.User.Id()))
+            {
+                <a asp-controller="Cars" asp-action="Add" class="btn btn-primary btn-lg"
+                   role="button">Add Car</a>
+            }
+        </p>
+    </div>
+}
+<div class="card-deck">
+
+    @foreach (var car in Model)
+    {
+        <div class="card col-4" style="width: 20rem;">
+            <img src="@car.ImageUrl" class="card-img-top rounded img-thumbnail" alt="@car.Make">
+            <div class="card-body">
+                <h5 class="card-title">@car.Make</h5>
+                <p class="card-text">@car.Model</p>
+            </div>
+        </div>
+    }
+</div>
+<br />
+
+

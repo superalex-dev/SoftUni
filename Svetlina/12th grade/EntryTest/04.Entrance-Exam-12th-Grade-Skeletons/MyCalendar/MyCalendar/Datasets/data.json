@@ -1,0 +1,142 @@
+[
+  {
+    "Name": "Technophyle",
+    "Events": [
+      {
+        "Name": "Absolute Planning",
+        "Location": "Zoom",
+        "StartEvent": "2023-05-05 10:00 PM",
+        "EndEvent": "2023-05-05 11:00 PM"
+      }
+    ]
+  },
+  {
+    "Name": "LOWERCASE GUY",
+    "Events": [
+      {
+        "Name": "Absolute Planning",
+        "Location": "Zoom",
+        "StartEvent": "2023-05-05 10:00 PM",
+        "EndEvent": "2023-05-05 11:00 PM"
+      },
+      {
+        "Name": "Step by Step Corporate",
+        "Location": "33rd Street and Fifth Avenue in New York City",
+        "StartEvent": "2023-04-05 12:00 PM",
+        "EndEvent": "2023-04-05 13:00 PM"
+      }
+    ]
+  },
+  {
+    "Name": "AllGoodNamesRGone",
+    "Events": [
+      {
+        "Name": "Step by Step Corporate",
+        "Location": "33rd Street and Fifth Avenue in New York City",
+        "StartEvent": "2023-04-05 12:00 PM",
+        "EndEvent": "2023-04-05 13:00 PM"
+      }
+    ]
+  },
+  {
+    "Name": "crazy_cat_lady",
+    "Events": [
+      {
+        "Name": "Big Day Planners",
+        "Location": "123 Main Street",
+        "StartEvent": "2023-03-15 13:30 PM",
+        "EndEvent": "2023-03-15 14:30 PM"
+      }
+    ]
+  },
+  {
+    "Name": "Babushka",
+    "Events": [
+      {
+        "Name": "The Party Paradise",
+        "Location": "2880 Nulla St. Mankato",
+        "StartEvent": "2023-07-10 22:30 PM",
+        "EndEvent": "2023-07-11 00:30 PM"
+      },
+      {
+        "Name": "Venue Horizon",
+        "Location": "21 High Street",
+        "StartEvent": "2023-06-17 10:10 PM",
+        "EndEvent": "2023-06-17 10:40 PM"
+      }
+    ]
+  },
+  {
+    "Name": "santas_number1_elf",
+    "Events": [
+      {
+        "Name": "Networking @ Nite",
+        "Location": "Zoom",
+        "StartEvent": "2023-08-10 22:30 PM",
+        "EndEvent": "2023-08-11 00:30 PM"
+      },
+      {
+        "Name": "Workshop Lunch",
+        "Location": "813 Howard Street",
+        "StartEvent": "2023-06-19 11:30 PM",
+        "EndEvent": "2023-06-19 12:30 PM"
+      },
+      {
+        "Name": "Absolute Planning",
+        "Location": "Zoom",
+        "StartEvent": "2023-05-05 10:00 PM",
+        "EndEvent": "2023-05-05 11:00 PM"
+      },
+      {
+        "Name": "Ask the Experts",
+        "Location": "Zoom",
+        "StartEvent": "2023-09-10 12:30 PM",
+        "EndEvent": "2023-09-10 13:30 PM"
+      }
+    ]
+  },
+  {
+    "Name": "Chris_P_Bacon",
+    "Events": [
+      {
+        "Name": "Networking @ Nite",
+        "Location": "Zoom",
+        "StartEvent": "2023-08-10 22:30 PM",
+        "EndEvent": "2023-08-11 00:30 PM"
+      }
+    ]
+  },
+  {
+    "Name": "PNUT",
+    "Events": [
+      {
+        "Name": "Ask the Experts",
+        "Location": "Zoom",
+        "StartEvent": "2023-09-10 12:30 PM",
+        "EndEvent": "2023-09-10 13:30 PM"
+      }
+    ]
+  },
+  {
+    "Name": "TheAverageForumUser",
+    "Events": [
+      {
+        "Name": "Driving Business Forward",
+        "Location": "71 Cherry Court",
+        "StartEvent": "2023-11-11 11:30 PM",
+        "EndEvent": "2023-11-11 12:30 PM"
+      }
+    ]
+  },
+  {
+    "Name": "MakunaHatata",
+    "Events": [
+      {
+        "Name": "Planning Masterclass",
+        "Location": "Zoom",
+        "StartEvent": "2023-09-11 11:30 PM",
+        "EndEvent": "2023-09-11 12:30 PM"
+      }
+    ]
+  }
+]

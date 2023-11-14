@@ -1,0 +1,60 @@
+﻿@model CarDetailsServiceModel
+@inject IDealerService dealers
+@inject ICarService cars
+
+@{
+    ViewBag.Title = "Car Details";
+}
+
+<h3 class="text-muted" style="text-align:center">@ViewBag.Title</h3>
+<hr />
+
+<div class="card mb-3" style="max-width: 100%">
+    <div class="row g-0">
+        <div class="col-md-4">
+            <img src="@Model.ImageUrl" class="img-fluid rounded-start">
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+                <h5 class="card-title">@Model.Make - @Model.Model</h5>
+                <p class="card-text">@Model.Description</p>
+                <p class="card-text">
+                    Price Per Month:
+                    <b>@String.Format("{0:f2}", Model.PricePerDay) BGN</b>
+                </p>
+                <p class="card-text"><small class="text-muted">(@(Model.IsRented ? "Rented" : "Not Rented"))</small></p>
+                <div class="form-inline">
+                    @if (this.User.Identity.IsAuthenticated)
+                    {
+                        @if (this.cars.HasDealerWithThisId(Model.Id, this.User.Id()))
+                        {
+                            <a class="btn btn-warning" asp-controller="Cars" asp-action="Edit" asp-route-id="@Model.Id">Edit</a>
+                            <a class="ml-2 btn btn-danger" asp-controller="Cars" asp-action="Delete" asp-route-id="@Model.Id">Delete</a>
+                        }
+                        @if (!Model.IsRented && !this.dealers.ExistsById(this.User.Id()))
+                        {
+                            <form class="ml-2" asp-controller="Cars" asp-action="Rent" asp-route-id="@Model.Id" method="post">
+                                <input class="btn btn-primary" type="submit" value="Rent" />
+                            </form>
+                        }
+                        else if (this.cars.IsRentedByUserWithId(Model.Id, this.User.Id()))
+                        {
+                            <form class="ml-2" asp-controller="Cars" asp-action="Leave" asp-route-id="@Model.Id" method="post">
+                                <input class="btn btn-primary" type="submit" value="Leave" />
+                            </form>
+                        }
+                    }
+                </div>
+                <br />
+                <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                        <h5 class="card-title">Agent Info</h5>
+                        <p class="card-text">Email:  @Model.Dealer.Email</p>
+                        <p class="card-text">Phone Number: @Model.Dealer.PhoneNumber</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

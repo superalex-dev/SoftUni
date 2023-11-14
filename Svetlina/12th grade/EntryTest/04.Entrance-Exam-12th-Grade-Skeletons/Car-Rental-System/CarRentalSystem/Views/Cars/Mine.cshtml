@@ -1,0 +1,19 @@
+﻿@model IEnumerable<CarServiceModel>
+
+@{
+    ViewBag.Title = "My Cars";
+}
+
+<h3 class="text-muted" style="text-align:center">@ViewBag.Title</h3>
+<hr />
+<div class="card-deck">
+    @foreach (var car in Model)
+    {
+        <partial name="_CarPartial" model="@car" />
+    }
+    @if (!Model.Any())
+    {
+        <h3 class="text-muted" style="text-align:center">You haven't added any cars yet!</h3>
+    }
+
+</div>

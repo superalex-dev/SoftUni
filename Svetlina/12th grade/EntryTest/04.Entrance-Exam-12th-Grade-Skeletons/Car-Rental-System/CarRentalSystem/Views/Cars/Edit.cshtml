@@ -1,0 +1,13 @@
+﻿@model CarFormModel
+
+@{
+    ViewBag.Title = "Edit Car";
+}
+
+<h3 class="text-muted" style="text-align:center">@ViewBag.Title</h3>
+<hr />
+<partial name="_CarFormPartial" model="@Model" />
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
