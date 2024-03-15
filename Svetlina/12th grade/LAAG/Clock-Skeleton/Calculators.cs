@@ -14,9 +14,7 @@
         /// </summary>
         public double CalculateSecondsInPercents(double seconds, double ms)
         {
-            double milisecondsAsSeconds = ms / 1000;
-            double percent = (seconds + milisecondsAsSeconds) / 100;
-            return percent / 60;
+            return ((seconds + ms / 1000) / 60) * 100;
         }
 
         /// <summary>
@@ -32,23 +30,7 @@
         public double CalculateMinutesInPercents(double minutes, double seconds,
             double ms)
         {
-            double secondsInMinute = 60;
-            double millisecondsInMinute = 60000;
-
-            // Calculate total seconds including milliseconds
-            double totalSeconds = minutes * secondsInMinute + seconds + (ms / 1000);
-
-            // Calculate percentage of total seconds in a minute
-            double percentOfSeconds = totalSeconds / secondsInMinute * 100;
-
-            // Calculate percentage of milliseconds in a minute
-            double percentOfMilliseconds = (ms / millisecondsInMinute) * 100;
-
-            // Combine both percentages
-            double totalPercentage = percentOfSeconds + percentOfMilliseconds;
-
-            // Adjust the percentage considering the total minutes on a clock
-            return totalPercentage / 60;
+            return ((minutes * 60 + seconds + ms / 1000) / 3600) * 100;
         }
 
         /// <summary>
@@ -63,21 +45,7 @@
         /// </summary>
         public double CalculateHoursInPercents(double hours, double minutes, double seconds)
         {
-            double minutesInHour = 60;
-            double secondsInHour = 3600;
-
-            // Convert hours to 12-hour format if needed
-            if (hours > 12)
-                hours -= 12;
-
-            // Calculate total seconds
-            double totalSeconds = hours * secondsInHour + minutes * minutesInHour + seconds;
-
-            // Calculate percentage of total seconds in an hour
-            double percentOfSeconds = totalSeconds / secondsInHour * 100;
-
-            // Adjust the percentage considering the total hours on a clock
-            return percentOfSeconds / 12;
+            return ((hours % 12 * 3600 + minutes * 60 + seconds) / (12 * 3600) * 100);
         }
 
         /// <summary>
@@ -92,18 +60,15 @@
         /// </summary>
         public double CalculateAngle(double percentage)
         {
-            double percent = percentage / 100;
+            double degrees = percentage / 100 * 360;
+            double radians = (90 - degrees) * Math.PI / 180;
 
-            // Convert percentage to degrees
-            double degrees = percent * 360;
+            if (radians < 0)
+            {
+                radians += 2 * Math.PI;
+            }
 
-            // Fix counter-clockwise rotation and ensure positive angle
-            degrees = 90 - degrees;
-            if (degrees < 0)
-                degrees += 360;
-
-            // Convert degrees to radians and return
-            return degrees * Math.PI / 180;
+            return radians;
         }
 
         /// <summary>
@@ -113,13 +78,8 @@
         /// </summary>
         public Point TranslatePoint(Point point, double angle, double length)
         {
-            // Calculate new X coordinate
             double newX = point.X + length * Math.Cos(angle);
-
-            // Calculate new Y coordinate
-            double newY = point.Y - length * Math.Sin(angle); // Negative because Y increases downwards in typical coordinate systems
-
-            // Return new point
+            double newY = point.Y - length * Math.Sin(angle);
             return new Point((int)newX, (int)newY);
         }
     }

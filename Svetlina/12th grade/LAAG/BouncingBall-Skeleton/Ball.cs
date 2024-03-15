@@ -68,9 +68,16 @@
 
         public void CheckCollisionY(int height)
         {
-            if (this.posY < 0 || this.posY + this.Diameter > height)
+            if (this.posY <= 0)
             {
-                this.Angle = VERTICAL_NORMAL - this.Angle;
+                this.Angle = 180 - this.Angle;
+                this.posY = 0;
+            }
+
+            if (this.posY + this.Diameter >= height)
+            {
+                this.Angle = 180 - this.Angle;
+                this.posY = height - this.Diameter;
             }
         }
     }
